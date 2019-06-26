@@ -17,8 +17,8 @@
                     <th scope="col">llnr</th>
                     <th scope="col">voornaam</th>
                     <th scope="col">tussenvoegsel</th>
-                    <th scope="col"></th>
-                    <th scope="col"></th>
+                    <th scope="col">achternaam</th>
+                    <th scope="col">afstudeer richting</th>
                     <th scope="col"></th>
                 </tr>
             </thead>
@@ -27,8 +27,8 @@
                     <th scope="row">323806</th>
                     <td>Nick</td>
                     <td></td>
-                    <td></td>
-                    <td></td>
+                    <td>Schmidt</td>
+                    <td>Game</td>
                     <td></td>
                 </tr>
             </tbody>
