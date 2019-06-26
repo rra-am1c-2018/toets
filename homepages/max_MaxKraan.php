@@ -17,7 +17,7 @@
   <body>
   <div class="container-fluid">
 
-  <h1>Toets Max Kraan</h1>
+  <h1>Toets Max Kraan - Git</h1>
 
 <table class="table">
 <thead>
