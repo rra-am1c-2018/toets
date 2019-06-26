@@ -15,7 +15,7 @@
             <thead>
                 <tr>
                     <th scope="col">llnr</th>
-                    <th scope="col"></th>
+                    <th scope="col">voornaam</th>
                     <th scope="col"></th>
                     <th scope="col"></th>
                     <th scope="col"></th>
@@ -25,7 +25,7 @@
             <tbody>
                 <tr>
                     <th scope="row">323806</th>
-                    <td></td>
+                    <td>Nick</td>
                     <td></td>
                     <td></td>
                     <td></td>
