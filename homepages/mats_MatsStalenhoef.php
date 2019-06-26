@@ -29,6 +29,7 @@
       <td>Mats</td>
       <td></td>
       <td>Stalenhoef</td>
+      <td>Game Developer</td>
     </tr>
   </tbody>
 </table>
