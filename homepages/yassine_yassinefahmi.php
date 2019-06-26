@@ -14,6 +14,7 @@
       <th scope="col">Achternaam</th>
       <th scope="col">Afstudeerrichting</th>
       <th scope="col">Avatar</th>
+      <th>Acties</th>
     </tr>
   </thead>
   <tbody>
@@ -24,6 +25,7 @@
       <th>Fahmi</th>
       <th>Webdeveloper</th>
       <th><img src="#"></th>
+      <th><a href="../index.php"><button class="btn btn-success">Terugknop</button></a></th>
     </tr>
   </tbody>
 </table>
