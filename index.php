@@ -31,7 +31,14 @@
                     <td><a href="./homepages/arjan_rra-am1c-2018.php">mijn homepage</a></td>
                     <td>10+</td>
                 </tr>
-<<<<<<< HEAD
+                <tr>
+                <th scope="row">320625</th>
+                    <td>Tijn</td>
+                    <td>tijn27</td>
+                    <td><img src="../img/tijn.png" alt="avatar" style="height: 30px;"></td>
+                    <td><a href="./homepages/tijn_tijn27.php">mijn homepage</a></td>
+                    <td>9</td>
+                </tr>
                 <tr>
                     <th scope="row">324337</th>
                     <td>Dennis</td>
@@ -39,16 +46,35 @@
                     <td><img src="./img/etika.png" width="40px" height="40px" /></td>
                     <td><a href="./homepages/dennis_oneandonlydennis.php">mijn homepage</a></td>
                     <td>10 (duh)</td>
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+=======
+=======
+                </tr>
+
+>>>>>>> bc5aec548dd4b20f27ffbdf399b4d54baa4d467b
+                <tr>
+                    <th scope="row">320711</th>
+                    <td>Emma</td>
+                    <td>emmaX2</td>
+                    <td><img src="./img/kaas.jpeg" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/emma_emmaX2.php">mijn homepage</a></td>
+                    <td>11</td>
+                </tr>
+<<<<<<< HEAD
+>>>>>>> 804d4f0cf10dc92cf081b5832af9c6fb600ce429
 =======
 
-
-
-
-
-
-
-
-
+>>>>>>> bc5aec548dd4b20f27ffbdf399b4d54baa4d467b
                 <tr>
                     <th scope="row">323806</th>
                     <td>Nick</td>
@@ -56,10 +82,10 @@
                     <td><img src="./img/Dkirby.PNG" width="40px" height="40px" /></td>
                     <td><a href="./homepages/Nick_DankassGamer69.php">mijn homepage</a></td>
                     <td>69 lmao</td>
->>>>>>> 480c72f2c696ec9ad23c623cc27c27e35326ec62
                 </tr>
 
                 <tr>
+<<<<<<< HEAD
                     <th scope="row">321736</th>
                     <td>Joram</td>
                     <td>Joramvb2</td>
@@ -68,6 +94,126 @@
                     <td>12</td>
 >>>>>>> 480c72f2c696ec9ad23c623cc27c27e35326ec62
                 </tr>
+=======
+                    <th scope="row">322632</th>
+                    <td>Sven</td>
+                    <td>svenbroekhof</td>
+                    <td><img src="./img/sven.png" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/sven_svenbroekhof.php">mijn homepage</a></td>
+                    <td>10</td>
+                </tr>
+
+                <tr>
+                    <th scope="row">324228</th>
+                    <td>Kiwork</td>
+                    <td>Kiworkian</td>
+                    <td><img src="./img/natuur.png" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/kiwork_kiwo1995.php">mijn homepage</a></td>
+                    <td>10</td>
+                </tr>
+                
+                <tr>
+                    <th scope="row">314181</th>
+                    <td>Sean Kelly</td>
+                    <td>daredevil28</td>
+                    <td><img src="./img/daredevil28.png" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/SeanKelly_daredevil28">mijn homepage</a></td>
+                    <td>at least a 7</td>
+
+                </tr>
+                
+                <tr>
+                    <th scope="row">322401</th>
+                    <td>Jesse</td>
+                    <td>JSaurusRex</td>
+                    <td><img src="./img/Jesse_JSaurusRex.png" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/jesse_JSaurusRex.php">mijn homepage</a></td>
+                    <td>8+-+</td>
+                </tr>
+
+                <tr>
+                    <th scope="row">322522</th>
+                    <td>Mats</td>
+                    <td>MatsStalenhoef</td>
+                    <td><img src="./img/mats.png" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/mats_MatsStalenhoef.php">mijn homepage</a></td>
+                    <td>Weet ik veel</td>
+                </tr>
+<<<<<<< HEAD
+                <tr>
+                <th scope="row">321231</th>
+                    <td>Kimberly</td>
+                    <td>KimberlyOwO</td>
+                    <td><img src="../img/icon.jpg" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/kimberly_kimberlyowo.php">mijn homepage</a></td>
+                    <td>7 ofzo</td>
+                    </tr>
+		
+=======
+                  <tr>
+                    <th scope="row">322401</th>
+                    <td>Melvin</td>
+                    <td>MrMoevie</td>
+                    <td><img src="./img/KonoDioDa.jpg" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/Melvin_MrMoevie.php">mijn homepage</a></td>
+                    <td>IDk 7+ atleast 7+</td>
+                </tr>
+>>>>>>> 9120d99b3e72326b394b38b278fef9c48d38cb59
+		<tr>
+                    <th scope="row">320526</th>
+                    <td>Yassine</td>
+                    <td>El Fahmi</td>
+                    <td><img src="./img/yassine.PNG" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/yassine_yassinefahmi.php">mijn homepage</a></td>
+                    <td>10? O wacht..</td>
+                </tr>
+                <tr>
+                    <th scope="row">324102</th>
+                    <td>Rijn</td>
+                    <td>yeetushappinessdeletus</td>
+                    <td><img src="./img/oof.png" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/rijn_ohshitwhatup.php">mijn homepage</a></td>
+                    <td>420 blaze it</td>
+                </tr>
+
+                <tr>
+                    <th scope="row">322719</th>
+                    <td>Max</td>
+                    <td>MaxKraan</td>
+                    <td><img src="./img/max.jpg" width="40px" height="40px" /></td>
+                    <td><a href="../homepages/max_MaxKraan.php">mijn homepage</a></td>
+                    <td>7</td>
+                </tr>
+
+                <tr>
+                    <th scope="row">318144</th>
+                    <td>Lois</td>
+                    <td>Xios12</td>
+                    <td><img src="./img/lois.jpg" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/Lois_Xios12.php">mijn homepage</a></td>
+                    <td>zeuven</td>
+                </tr>
+
+                <tr>
+<<<<<<< HEAD
+                    <th scope="row">321173</th>
+                    <td>Kian</td>
+                    <td>Ceelie</td>
+                    <td><img src="./img/yarrr.PNG" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/kian-yeboikian.php">homepage knop lol</a></td>
+                    <td>2.6</td>
+                </tr>
+
+=======
+                    <th scope="row">317074</th>
+                    <td>Dylan</td>
+                    <td>Subsidie</td>
+                    <td><img src="./img/dylan.png" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/dylan_subsidie.php">Mijn Homepage</a></td>
+                    <td>Number 15</td>
+                </tr>
+>>>>>>> 50eefe2866ab11e485bdac1a9692a099bcb27796
+>>>>>>> 292580f57f527e73d69b944078d54388b2e7baa1
             </tbody>
         </table>
       </div>

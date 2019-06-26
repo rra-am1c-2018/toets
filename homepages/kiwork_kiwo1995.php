@@ -20,7 +20,10 @@
                     <th scope="col">Achternaam</th>
                     <th scope="col">Afstudeerrichting</th>
                     <th scope="col">Avatar (40x40)</th>
+<<<<<<< HEAD
                     <th scope="col">Cijfer voor pagina</th>
+=======
+>>>>>>> 292580f57f527e73d69b944078d54388b2e7baa1
                 </tr>
             </thead>
             <tbody>
@@ -30,11 +33,22 @@
                     <td>GEEN</td>
                     <td>Kiworkian</td>
                     <td>WEB</td>
+<<<<<<< HEAD
                     <td><img src="./img/natuur.jpg" width="40px" height="40px" /></td>
+=======
+                    <td><img src="../img/natuur.jpg" width="40px" height="40px" /></td>
+>>>>>>> 292580f57f527e73d69b944078d54388b2e7baa1
                 </tr>
             </tbody>
         </table>
       </div>
+<<<<<<< HEAD
+=======
+
+      <a class="btn btn-primary btn-lg btn-block" href="http://www.toets-kiwork-am1c.org" role="button">Link</a>
+
+
+>>>>>>> 292580f57f527e73d69b944078d54388b2e7baa1
       <!-- Optional JavaScript -->
       <!-- jQuery first, then Popper.js, then Bootstrap JS -->
       <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

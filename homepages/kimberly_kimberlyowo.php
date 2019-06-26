@@ -19,6 +19,7 @@
                     <th scope="col">Afstudeerrichting</th>
                     <th scope="col">Avatar</th>
                     <th scope="col">Hobby</th>
+                    <th scope="col">Link</th>
                 </tr>
             </thead>
             <tbody>
@@ -30,6 +31,7 @@
                     <td>Game</td>
                     <td><img src="../img/icon.jpg" width="40px" height="40px" /></td>
                     <td>Tekenen, game, niets doen, slapen en niets doen</td>
+                    <td><a class="btn btn-primary" href="../index.php" role="button">Link</a></td>
                 </tr>
             </tbody>
         </table>
