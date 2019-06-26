@@ -14,9 +14,9 @@
         <table class="table table-hover">
             <thead>
                 <tr>
-                    <th scope="col"></th>
-                    <th scope="col"></th>
-                    <th scope="col"></th>
+                    <th scope="col">llnr</th>
+                    <th scope="col">voornaam</th>
+                    <th scope="col">tussenvoegsel</th>
                     <th scope="col"></th>
                     <th scope="col"></th>
                     <th scope="col"></th>
@@ -24,8 +24,8 @@
             </thead>
             <tbody>
                 <tr>
-                    <th scope="row"></th>
-                    <td></td>
+                    <th scope="row">323806</th>
+                    <td>Nick</td>
                     <td></td>
                     <td></td>
                     <td></td>
