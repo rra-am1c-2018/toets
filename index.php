@@ -32,6 +32,14 @@
                     <td>10+</td>
                 </tr>
                 <tr>
+                <th scope="row">320625</th>
+                    <td>Tijn</td>
+                    <td>tijn27</td>
+                    <td><img src="../img/tijn.png" alt="avatar" style="height: 30px;"></td>
+                    <td><a href="./homepages/tijn_tijn27.php">mijn homepage</a></td>
+                    <td>9</td>
+                </tr>
+                <tr>
                     <th scope="row">324337</th>
                     <td>Dennis</td>
                     <td>oneandonlydennis</td>
@@ -93,6 +101,15 @@
                     <td><img src="./img/mats.png" width="40px" height="40px" /></td>
                     <td><a href="./homepages/mats_MatsStalenhoef.php">mijn homepage</a></td>
                     <td>Weet ik veel</td>
+                </tr>
+		
+		<tr>
+                    <th scope="row">320526</th>
+                    <td>Yassine</td>
+                    <td>El Fahmi</td>
+                    <td><img src="./img/yassine.png" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/yassine_yassinefahmi.php">mijn homepage</a></td>
+                    <td>10? O wacht..</td>
                 </tr>
 
             </tbody>
