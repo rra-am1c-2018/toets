@@ -30,11 +30,11 @@
                     <td>Breugel</td>
                     <td>Applicatie- en mediaontwikkelaar</td>
                     <td><img src="./img/kaas.jpeg" width="40px" height="40px" /></td>
-                    <!-- <td><a href=""></a></td> -->
-                    <td></td>
-                </tr>
+                    
+                    </tr>
             </tbody>
         </table>
+        <a name="button1" id="button1" class="btn btn-primary" href="../index.php" role="button">Terug naar home</a>
       </div>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

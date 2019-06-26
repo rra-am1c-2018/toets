@@ -1,6 +1,7 @@
 <html>
 <head>
 	<title>Mijn git</title>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 </head>
 <body>
 <div class="container-fluid">
@@ -18,11 +19,11 @@
   <tbody>
     <tr>
       <th scope="row">320526</th>
-      <td>Yassine</td>
-      <td>El</td>
-      <td>Fahmi</td>
-      <td>Webdeveloper</td>
-      <td><img src="#"></td>
+      <th>Yassine</th>
+      <th>El</th>
+      <th>Fahmi</th>
+      <th>Webdeveloper</th>
+      <th><img src="#"></th>
     </tr>
   </tbody>
 </table>
