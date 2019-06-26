@@ -19,7 +19,7 @@
                     <th scope="col">tussenvoegsel</th>
                     <th scope="col">achternaam</th>
                     <th scope="col">afstudeer richting</th>
-                    <th scope="col"></th>
+                    <th scope="col">avatar</th>
                 </tr>
             </thead>
             <tbody>
@@ -29,7 +29,7 @@
                     <td></td>
                     <td>Schmidt</td>
                     <td>Game</td>
-                    <td></td>
+                    <td><img src="./img/Dkirby.PNG" width="40px" height="40px" /></td>
                 </tr>
             </tbody>
         </table>
