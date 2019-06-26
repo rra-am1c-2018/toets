@@ -84,6 +84,15 @@
 >>>>>>> fa3fc98a498e077f32133e1a990d057a1cc95b2b
                 </tr>
 
+                <tr>
+                    <th scope="row">322522</th>
+                    <td>Mats</td>
+                    <td>MatsStalenhoef</td>
+                    <td><img src="./img/mats.png" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/mats_Stalenhoef.php">mijn homepage</a></td>
+                    <td>8+-+</td>
+                </tr>
+
             </tbody>
         </table>
       </div>
