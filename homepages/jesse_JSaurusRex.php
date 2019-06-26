@@ -16,13 +16,13 @@
     <thead>
         <tr>
         <th scope="col">Llnr</th>
-
+        <th scope="col">Voornaam</th>
         </tr>
     </thead>
     <tbody>
         <tr>
         <td>322401</td>
-
+        <td>Jesse</td>
         </tr>
     </tbody>
     </table>
