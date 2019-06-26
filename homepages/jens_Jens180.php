@@ -1,40 +1,42 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <title>Dennis Luijkenaar</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <title>Hello, world!</title>
   </head>
   <body>
+    <h1>Hello, world!</h1>
+
     <div class="container-fluid">
     <table class="table">
-        <thead>
-            <tr>
-                <th>Leerlingsnummer</th>
-                <th>Voornaam</th>
-                <th>Tussenvoegsel</th>
-                <th>Achternaam</th>
-                <th>Afstudeerrichting</th>
-                <th>Avatar</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td scope="row">332347</td>
-                <td>Dennis</td>
-                <td></td>
-                <td>Luijkenaar</td>
-                <td>Web development</td>
-                <td></td>
-            </tr>
-        </tbody>
-    </table>
+  <thead>
+    <tr>
+      <th scope="col">llnr</th>
+      <th scope="col">Voornaam</th>
+      <th scope="col">Tussenvoegsel</th>
+      <th scope="col">Achternaam</th>
+      <th scope="col">Handle</th>
+      <th scope="col">Handle</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>322494</td>
+      <td>Jens</td>
+      <td>-</td>
+      <td>Reimer</td>
+      <td>@mdo</td>
+      <td>@mdo</td>
+    </tr>
+  </tbody>
+</table>
     </div>
-
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
