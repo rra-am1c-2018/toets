@@ -16,7 +16,7 @@
                 <tr>
                     <th scope="col">llnr</th>
                     <th scope="col">voornaam</th>
-                    <th scope="col"></th>
+                    <th scope="col">tussenvoegsel</th>
                     <th scope="col"></th>
                     <th scope="col"></th>
                     <th scope="col"></th>
