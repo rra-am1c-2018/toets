@@ -20,8 +20,8 @@
       <th scope="col">llnr</th>
       <th scope="col">Voornaam</th>
       <th scope="col">Tussenvoegsel</th>
-      <th scope="col">Handle</th>
-      <th scope="col">Handle</th>
+      <th scope="col">Achternaam</th>
+      <th scope="col">Afstudeerrichting</th>
       <th scope="col">Handle</th>
     </tr>
   </thead>
@@ -30,8 +30,8 @@
       <td>322494</td>
       <td>Jens</td>
       <td>-</td>
-      <td>@mdo</td>
-      <td>@mdo</td>
+      <td>Reimer</td>
+      <td>Game development</td>
       <td>@mdo</td>
     </tr>
   </tbody>
