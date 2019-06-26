@@ -95,6 +95,15 @@
                     <td>Weet ik veel</td>
                 </tr>
 
+                <tr>
+                    <th scope="row">322719</th>
+                    <td>Max</td>
+                    <td>MaxKraan</td>
+                    <td><img src="./img/max.jpg" width="40px" height="40px" /></td>
+                    <td><a href="../homepages/max_MaxKraan.php">mijn homepage</a></td>
+                    <td>420 lmao</td>
+                </tr>
+
             </tbody>
         </table>
       </div>
