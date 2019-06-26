@@ -32,10 +32,11 @@
       <td>-</td>
       <td>Reimer</td>
       <td>Game development</td>
-      <td><img src="./img/SPQR.png" style="width: 100px; height: 100px;"></td>
+      <td><img src="../img/SPQR.png" style="width: 100px; height: 100px;"></td>
     </tr>
   </tbody>
 </table>
+      <a class="btn btn-primary" href="../index.php" role="button">Homepage</a>
     </div>
 
     
