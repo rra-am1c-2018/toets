@@ -12,6 +12,9 @@
   </head>
   <body>
     <div class="container-fluid">
+    <form action="../index.php">
+        <button type="submit" class="btn btn-outline-primary" url="index.php">terug</button>
+    </form>
         <table class="table">
             <thead>
                 <tr>
