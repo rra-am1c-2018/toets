@@ -35,7 +35,7 @@
                 <th scope="row">320625</th>
                     <td>Tijn</td>
                     <td>tijn27</td>
-                    <td><img src="../img/tijn.png" alt="avatar" style="height: 30px;"></td>
+                    <td><img src="../img/tijn.png" alt="avatar" style="height: 40px;"></td>
                     <td><a href="./homepages/tijn_tijn27.php">mijn homepage</a></td>
                     <td>9</td>
                 </tr>
@@ -46,22 +46,7 @@
                     <td><img src="./img/etika.png" width="40px" height="40px" /></td>
                     <td><a href="./homepages/dennis_oneandonlydennis.php">mijn homepage</a></td>
                     <td>10 (duh)</td>
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-
-
-
-
-
-
-
-
-=======
-=======
                 </tr>
-
->>>>>>> bc5aec548dd4b20f27ffbdf399b4d54baa4d467b
                 <tr>
                     <th scope="row">320711</th>
                     <td>Emma</td>
@@ -70,11 +55,6 @@
                     <td><a href="./homepages/emma_emmaX2.php">mijn homepage</a></td>
                     <td>11</td>
                 </tr>
-<<<<<<< HEAD
->>>>>>> 804d4f0cf10dc92cf081b5832af9c6fb600ce429
-=======
-
->>>>>>> bc5aec548dd4b20f27ffbdf399b4d54baa4d467b
                 <tr>
                     <th scope="row">323806</th>
                     <td>Nick</td>
@@ -85,16 +65,14 @@
                 </tr>
 
                 <tr>
-<<<<<<< HEAD
                     <th scope="row">321736</th>
                     <td>Joram</td>
                     <td>Joramvb2</td>
                     <td><img src="./img/klimmer.jpg" width="40px" height="40px" /></td>
                     <td><a href="./homepages/joram_joramvb2.php">mijn homepage</a></td>
                     <td>12</td>
->>>>>>> 480c72f2c696ec9ad23c623cc27c27e35326ec62
+
                 </tr>
-=======
                     <th scope="row">322632</th>
                     <td>Sven</td>
                     <td>svenbroekhof</td>
@@ -107,7 +85,7 @@
                     <th scope="row">324228</th>
                     <td>Kiwork</td>
                     <td>Kiworkian</td>
-                    <td><img src="./img/natuur.png" width="40px" height="40px" /></td>
+                    <td><img src="./img/natuur.jpg" width="40px" height="40px" /></td>
                     <td><a href="./homepages/kiwork_kiwo1995.php">mijn homepage</a></td>
                     <td>10</td>
                 </tr>
@@ -139,26 +117,15 @@
                     <td><a href="./homepages/mats_MatsStalenhoef.php">mijn homepage</a></td>
                     <td>Weet ik veel</td>
                 </tr>
-<<<<<<< HEAD
                 <tr>
                 <th scope="row">321231</th>
                     <td>Kimberly</td>
                     <td>KimberlyOwO</td>
-                    <td><img src="../img/icon.jpg" width="40px" height="40px" /></td>
+                    <td><img src="./img/natuur.jpg" width="40px" height="40px" /></td>
                     <td><a href="./homepages/kimberly_kimberlyowo.php">mijn homepage</a></td>
                     <td>7 ofzo</td>
                     </tr>
 		
-=======
-                  <tr>
-                    <th scope="row">322401</th>
-                    <td>Melvin</td>
-                    <td>MrMoevie</td>
-                    <td><img src="./img/KonoDioDa.jpg" width="40px" height="40px" /></td>
-                    <td><a href="./homepages/Melvin_MrMoevie.php">mijn homepage</a></td>
-                    <td>IDk 7+ atleast 7+</td>
-                </tr>
->>>>>>> 9120d99b3e72326b394b38b278fef9c48d38cb59
 		<tr>
                     <th scope="row">320526</th>
                     <td>Yassine</td>
@@ -195,7 +162,6 @@
                 </tr>
 
                 <tr>
-<<<<<<< HEAD
                     <th scope="row">321173</th>
                     <td>Kian</td>
                     <td>Ceelie</td>
@@ -203,8 +169,6 @@
                     <td><a href="./homepages/kian-yeboikian.php">homepage knop lol</a></td>
                     <td>2.6</td>
                 </tr>
-
-=======
                     <th scope="row">317074</th>
                     <td>Dylan</td>
                     <td>Subsidie</td>
@@ -212,7 +176,6 @@
                     <td><a href="./homepages/dylan_subsidie.php">Mijn Homepage</a></td>
                     <td>Number 15</td>
                 </tr>
-<<<<<<< HEAD
                 <tr>
                     <th scope="row">320664</th>
                     <td>Boele</td>
@@ -221,13 +184,6 @@
                     <td><a href="./homepages/boele_boelejohan.php">mijn homepage</a></td>
                     <td>7</td>
                 </tr>
-=======
->>>>>>> 50eefe2866ab11e485bdac1a9692a099bcb27796
-<<<<<<< HEAD
->>>>>>> 292580f57f527e73d69b944078d54388b2e7baa1
-=======
->>>>>>> 44dd914e61074a481e2d513171e00b81585daf04
->>>>>>> 8a15c6fb511694363b5950e5f2a81a2751652833
             </tbody>
         </table>
       </div>
