@@ -17,6 +17,7 @@
                     <th scope="col">llnr</th>
                     <th scope="col">Voornaam</th>
                     <th scope="col">Tussenvoegsel</th>
+                    <th scope="col">Achternaam</th>
                     
                 </tr>
             </thead>
@@ -25,6 +26,7 @@
                     <th scope="row">322632</th>
                     <td>Sven</td>
                     <td></td>
+                    <td>Broekhof</td>
 
                 </tr>
             </tbody>
