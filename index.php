@@ -94,6 +94,15 @@
                     <td><a href="./homepages/mats_MatsStalenhoef.php">mijn homepage</a></td>
                     <td>Weet ik veel</td>
                 </tr>
+		
+		<tr>
+                    <th scope="row">320526</th>
+                    <td>Yassine</td>
+                    <td>El Fahmi</td>
+                    <td><img src="./img/yassine.png" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/yassine_yassinefahmi.php">mijn homepage</a></td>
+                    <td>10? O wacht..</td>
+                </tr>
 
             </tbody>
         </table>
