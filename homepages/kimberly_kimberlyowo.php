@@ -19,6 +19,7 @@
                     <th scope="col">Afstudeerrichting</th>
                     <th scope="col">Avatar</th>
                     <th scope="col">Hobby</th>
+                    <th scope="col">Link</th>
                 </tr>
             </thead>
             <tbody>
@@ -33,6 +34,7 @@
                 </tr>
             </tbody>
         </table>
+        <a class="btn btn-primary" href="#" role="button">Link</a>
       </div>
       <!-- Optional JavaScript -->
       <!-- jQuery first, then Popper.js, then Bootstrap JS -->
