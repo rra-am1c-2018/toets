@@ -35,20 +35,29 @@
                     <td>lois</td>
                     <td>Xios12</td>
                     <td>web</td>
+<<<<<<< HEAD
+                    <td><img src="../img/lois.jpg" width="40px" height="40px" /></td>
+                    <td>8,687</td>
+=======
                     <td><img src="./img/lois.jpg" width="40px" height="40px" /></td>
 >>>>>>> 292580f57f527e73d69b944078d54388b2e7baa1
                     <td>10+</td>
+>>>>>>> dbc2646957fb9a1789815659966d04e052bda3c2
                 </tr>
             </tbody>
         </table>
       </div>
 
 <<<<<<< HEAD
+      <th><a href="../index.php"><button class="btn btn-success btn-block" >Terug naar index</button></a></th>
+=======
+<<<<<<< HEAD
       <button type="button" class="btn btn-primary btn-lg btn-block">terug naar index</button>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 =======
       <button href="index.php" type="button" class="btn btn-primary btn-lg btn-block">terug naar index</button>
+>>>>>>> dbc2646957fb9a1789815659966d04e052bda3c2
 
 >>>>>>> 292580f57f527e73d69b944078d54388b2e7baa1
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
