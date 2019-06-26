@@ -9,22 +9,22 @@
   <table class="table">
   <thead>
   <tr>
-                  <th>Voornaam</th>
-                  <th>Tussenvoegsel</th>
-                  <th>Achternaam</th>
-                  <th>afstudeerrichting</th>
-                  <th>Avatar</th>
-                  <th></th>
+                    <th scope="col">llnr</th>
+                    <th scope="col">voornaam</th>
+                    <th scope="col">tussenvoegsel</th>
+                    <th scope="col">achternaam</th>
+                    <th scope="col">afstudeerrichting</th>
+                    <th scope="col">avatar</th>
               </tr>
           </thead>
           <tbody>
               <tr>
-                  <td scope="row">321173</td>
-                  <td>Kian</td>
-                  <td></td>
-                  <td>Ceelie</td>
-                  <td>Game</td>
-                  <td><td><img src="../img/yarrr.png" style="width: 50px; height: 50px;"></td></td>
+              <th scope="row">321173</th>
+                    <td>Kian</td>
+                    <td></td>
+                    <td>Ceelie</td>
+                    <td>Game</td>
+                    <td><img src="yarrr.PNG" alt=""></td>
               </tr>
 
               <a href="/index.php" ><button>index</button></a>
