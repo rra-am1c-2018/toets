@@ -110,7 +110,7 @@
                     <td>Dylan</td>
                     <td>Subsidie</td>
                     <td><img src="./img/dylan.png" width="40px" height="40px" /></td>
-                    <td><a href="./homepages/Nick_DankassGamer69.php">Mijn Homepage</a></td>
+                    <td><a href="./homepages/dylan_subsidie.php">Mijn Homepage</a></td>
                     <td>Number 15</td>
                 </tr>
             </tbody>
