@@ -9,33 +9,34 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   </head>
   <body>
-  <div class="container-fluid">
+
+    <div class="container-fluid">
         <h1>Toets - AM1C</h1>
         <table class="table table-hover">
             <thead>
                 <tr>
-                    <th scope="col">llnr</th>
-                    <th scope="col">voornaam</th>
-                    <th scope="col">Tussenvoegsel</th>
-                    <th scope="col">Achternaam</th>
-                    <th scope="col">afstuderrichting</th>
-                    <th scope="col">Avatar</th>
+                    <th scope="col">leerlingnummer</th>
+                    <th scope="col">naam</th>
+                    <th scope="col">githubnaam</th>
+                    <th scope="col">afsutdeer richting</th>
+                    <th scope="col">Avatar (40x40)</th>
+                    <th scope="col">Cijfer voor pagina</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
-                    <th scope="row">320711</th>
-                    <td>Emma</td>
-                    <td>van</td>
-                    <td>Breugel</td>
-                    <td>Applicatie- en mediaontwikkelaar</td>
-                    <td><img src="./img/Kaas.jpeg" width="40px" height="40px" /></td>
-                    
-                    </tr>
+                    <th scope="row">318144</th>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td><img src="./img/icon.jpg" width="40px" height="40px" /></td>
+                    <td>10+</td>
+                </tr>
             </tbody>
         </table>
-        <a name="button1" id="button1" class="btn btn-primary" href="../index.php" role="button">Terug naar home</a>
       </div>
+
+      <button type="button" class="btn btn-primary btn-lg btn-block">terug naar index</button>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
