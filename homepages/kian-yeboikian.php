@@ -24,7 +24,7 @@
                     <td></td>
                     <td>Ceelie</td>
                     <td>Game</td>
-                    <td><img src="yarrr.PNG" alt=""></td>
+                    <td><img src="./img/yarrr.PNG" width="40px" height="40px" /></td>
               </tr>
 
               <a href="/index.php" ><button>index</button></a>
