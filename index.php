@@ -58,6 +58,16 @@
                     <td>69 lmao</td>
 >>>>>>> 480c72f2c696ec9ad23c623cc27c27e35326ec62
                 </tr>
+
+                <tr>
+                    <th scope="row">321736</th>
+                    <td>Joram</td>
+                    <td>Joramvb2</td>
+                    <td><img src="./img/klimmer.jpg" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/joram_joramvb2.php">mijn homepage</a></td>
+                    <td>12</td>
+>>>>>>> 480c72f2c696ec9ad23c623cc27c27e35326ec62
+                </tr>
             </tbody>
         </table>
       </div>
