@@ -14,6 +14,7 @@
     <table class="table table-hover">
             <thead>
                 <tr>
+                    <th>llnr</th>
                     <th>Voornaam</th>
                     <th>Tussenvoegsel</th>
                     <th>Achternaam</th>
@@ -23,12 +24,12 @@
             </thead>
             <tbody>
                 <tr>
+                    <td>317074</td>
                     <td scope="row">Dylan</td>
                     <td>Van</td>
                     <td>Van Schaik</td>
                     <td>Twijfel</td>
                     <td><img src="./img/dylanava.png" style="width: 100px; height: 100px;"></td>
-                    <td></td>
                 </tr>
             </tbody>
         </table>
