@@ -14,7 +14,7 @@
         <table class="table table-hover">
             <thead>
                 <tr>
-                    <th scope="col">llnr</th>
+                    <th scope="col"></th>
                     <th scope="col"></th>
                     <th scope="col"></th>
                     <th scope="col"></th>
@@ -24,7 +24,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <th scope="row">321736</th>
+                    <th scope="row"></th>
                     <td></td>
                     <td></td>
                     <td></td>
