@@ -22,7 +22,7 @@
       <th scope="col">Tussenvoegsel</th>
       <th scope="col">Achternaam</th>
       <th scope="col">Afstudeerrichting</th>
-      <th scope="col">Handle</th>
+      <th scope="col">Avatar</th>
     </tr>
   </thead>
   <tbody>
@@ -32,11 +32,13 @@
       <td>-</td>
       <td>Reimer</td>
       <td>Game development</td>
-      <td>@mdo</td>
+      <td><img src="./img/SPQR.png" style="width: 100px; height: 100px;"></td>
     </tr>
   </tbody>
 </table>
     </div>
+
+    
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
