@@ -18,7 +18,7 @@
   <thead>
     <tr>
       <th scope="col">llnr</th>
-      <th scope="col">First</th>
+      <th scope="col">Voornaam</th>
       <th scope="col">Last</th>
       <th scope="col">Handle</th>
       <th scope="col">Handle</th>
@@ -28,7 +28,7 @@
   <tbody>
     <tr>
       <td>322494</td>
-      <td>Otto</td>
+      <td>Jens</td>
       <td>@mdo</td>
       <td>@mdo</td>
       <td>@mdo</td>
