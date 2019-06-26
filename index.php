@@ -120,7 +120,14 @@
                     <td><a href="./homepages/mats_MatsStalenhoef.php">mijn homepage</a></td>
                     <td>Weet ik veel</td>
                 </tr>
-		
+                  <tr>
+                    <th scope="row">322401</th>
+                    <td>Melvin</td>
+                    <td>MrMoevie</td>
+                    <td><img src="./img/KonoDioDa.jpg" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/Melvin_MrMoevie.php">mijn homepage</a></td>
+                    <td>IDk 7+ atleast 7+</td>
+                </tr>
 		<tr>
                     <th scope="row">320526</th>
                     <td>Yassine</td>
@@ -144,9 +151,8 @@
                     <td>MaxKraan</td>
                     <td><img src="./img/max.jpg" width="40px" height="40px" /></td>
                     <td><a href="../homepages/max_MaxKraan.php">mijn homepage</a></td>
-                    <td>420 lmao</td>
+                    <td>7</td>
                 </tr>
-
                 <tr>
 <<<<<<< HEAD
                     <th scope="row">321173</th>

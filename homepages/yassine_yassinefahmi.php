@@ -24,7 +24,7 @@
       <th>El</th>
       <th>Fahmi</th>
       <th>Webdeveloper</th>
-      <th><img src="#"></th>
+      <th><img src="../img/yassine.png"></th>
       <th><a href="../index.php"><button class="btn btn-success">Terugknop</button></a></th>
     </tr>
   </tbody>
