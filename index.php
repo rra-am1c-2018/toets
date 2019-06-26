@@ -212,8 +212,22 @@
                     <td><a href="./homepages/dylan_subsidie.php">Mijn Homepage</a></td>
                     <td>Number 15</td>
                 </tr>
+<<<<<<< HEAD
+                <tr>
+                    <th scope="row">320664</th>
+                    <td>Boele</td>
+                    <td>Boelejohan</td>
+                    <td><img src="./img/200px-Pipo_de_Clown.png" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/boele_boelejohan.php">mijn homepage</a></td>
+                    <td>7</td>
+                </tr>
+=======
 >>>>>>> 50eefe2866ab11e485bdac1a9692a099bcb27796
+<<<<<<< HEAD
 >>>>>>> 292580f57f527e73d69b944078d54388b2e7baa1
+=======
+>>>>>>> 44dd914e61074a481e2d513171e00b81585daf04
+>>>>>>> 8a15c6fb511694363b5950e5f2a81a2751652833
             </tbody>
         </table>
       </div>
