@@ -29,7 +29,7 @@
                     <td>van</td>
                     <td>Breugel</td>
                     <td>Applicatie- en mediaontwikkelaar</td>
-                    <td><img src="./img/kaas.jpeg" width="40px" height="40px" /></td>
+                    <td><img src="./img/Kaas.jpeg" width="40px" height="40px" /></td>
                     
                     </tr>
             </tbody>
