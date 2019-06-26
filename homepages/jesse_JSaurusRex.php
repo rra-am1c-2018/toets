@@ -17,12 +17,14 @@
         <tr>
         <th scope="col">Llnr</th>
         <th scope="col">Voornaam</th>
+        <th scope="col">tussenvoegsel</th>
         </tr>
     </thead>
     <tbody>
         <tr>
         <td>322401</td>
         <td>Jesse</td>
+        <td></td>
         </tr>
     </tbody>
     </table>
