@@ -14,12 +14,12 @@
     <table class="table">
         <thead>
             <tr>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
+                <th>Leerlingsnummer</th>
+                <th>Voornaam</th>
+                <th>Tussenvoegsel</th>
+                <th>Achternaam</th>
+                <th>Afstudeerrichting</th>
+                <th>Avatar</th>
             </tr>
         </thead>
         <tbody>
