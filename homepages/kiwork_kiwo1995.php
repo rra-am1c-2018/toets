@@ -26,11 +26,9 @@
             <tbody>
                 <tr>
                     <th scope="row">324228</th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <!-- <td><img src="./img/natuur.jpg" width="40px" height="40px" /></td> -->
+                    <td>Kiwork</td>
+                    <td>GEEN</td>
+
                 </tr>
             </tbody>
         </table>
