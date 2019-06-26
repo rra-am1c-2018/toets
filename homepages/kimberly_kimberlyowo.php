@@ -28,7 +28,7 @@
                     <td></td>
                     <td>Kroon</td>
                     <td>Game</td>
-                    <td><img src="./img/icon.jpg" width="40px" height="40px" /></td>
+                    <td><img src="../img/icon.jpg" width="40px" height="40px" /></td>
                     <td>Tekenen</td>
                 </tr>
             </tbody>
