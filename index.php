@@ -31,6 +31,15 @@
                     <td><a href="./homepages/arjan_rra-am1c-2018.php">mijn homepage</a></td>
                     <td>10+</td>
                 </tr>
+<<<<<<< HEAD
+                <tr>
+                    <th scope="row">324337</th>
+                    <td>Dennis</td>
+                    <td>oneandonlydennis</td>
+                    <td><img src="./img/etika.png" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/dennis_oneandonlydennis.php">mijn homepage</a></td>
+                    <td>10 (duh)</td>
+=======
 
 
 
@@ -43,12 +52,11 @@
                 <tr>
                     <th scope="row">323806</th>
                     <td>Nick</td>
-                    <td></td>
-                    <td>Schmidt</td>
-                    <td>Game</td>
+                    <td>DankassGamer69</td>
                     <td><img src="./img/Dkirby.PNG" width="40px" height="40px" /></td>
-                    <td><a href="./toets-nick-am1c/index.php">mijn homepage</a></td>
+                    <td><a href="./homepages/Nick_DankassGamer69.php">mijn homepage</a></td>
                     <td>69 lmao</td>
+>>>>>>> 480c72f2c696ec9ad23c623cc27c27e35326ec62
                 </tr>
                 
                 <tr>

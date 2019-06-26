@@ -19,7 +19,8 @@
                     <th scope="col">Tussenvoegsel</th>
                     <th scope="col">Achternaam</th>
                     <th scope="col">Afstudeerrichting</th>
-                    <th scope="col">Avatar (40x40)</th>
+                    <th scope="col">Avatar</th>
+                    <th scope="col">Naar index</th>
                     
                 </tr>
             </thead>
@@ -31,6 +32,7 @@
                     <td>Broekhof</td>
                     <td>Web-development</td>
                     <td><img src="../img/sven.png" width="40px" height="40px" /></td>
+                    <td><a class="btn btn-primary" href="../index.php" role="button">Index</a></td>
 
                 </tr>
             </tbody>
