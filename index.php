@@ -120,6 +120,17 @@
                     <td><a href="./homepages/mats_MatsStalenhoef.php">mijn homepage</a></td>
                     <td>Weet ik veel</td>
                 </tr>
+<<<<<<< HEAD
+                <tr>
+                <th scope="row">321231</th>
+                    <td>Kimberly</td>
+                    <td>KimberlyOwO</td>
+                    <td><img src="../img/icon.jpg" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/kimberly_kimberlyowo.php">mijn homepage</a></td>
+                    <td>7 ofzo</td>
+                    </tr>
+		
+=======
                   <tr>
                     <th scope="row">322401</th>
                     <td>Melvin</td>
@@ -128,16 +139,17 @@
                     <td><a href="./homepages/Melvin_MrMoevie.php">mijn homepage</a></td>
                     <td>IDk 7+ atleast 7+</td>
                 </tr>
+>>>>>>> 9120d99b3e72326b394b38b278fef9c48d38cb59
 		<tr>
                     <th scope="row">320526</th>
                     <td>Yassine</td>
                     <td>El Fahmi</td>
-                    <td><img src="./img/yassine.png" width="40px" height="40px" /></td>
+                    <td><img src="./img/yassine.PNG" width="40px" height="40px" /></td>
                     <td><a href="./homepages/yassine_yassinefahmi.php">mijn homepage</a></td>
                     <td>10? O wacht..</td>
                 </tr>
                 <tr>
-                    <th scope="row">324337</th>
+                    <th scope="row">324102</th>
                     <td>Rijn</td>
                     <td>yeetushappinessdeletus</td>
                     <td><img src="./img/oof.png" width="40px" height="40px" /></td>
@@ -168,8 +180,8 @@
                     <th scope="row">321173</th>
                     <td>Kian</td>
                     <td>Ceelie</td>
-                    <td><img src="./img/yarr image.jpg" width="40px" height="40px" /></td>
-                    <td><a href="./homepages/kian_yeboikian.php">mijn homepage</a></td>
+                    <td><img src="./img/yarrr.jpg" width="40px" height="40px"/></td>
+                    <td><a href="./homepages/kian-yeboikian.php">homepage knop lol</a></td>
                     <td>2.6</td>
                 </tr>
 
