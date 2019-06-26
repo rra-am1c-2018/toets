@@ -14,7 +14,7 @@
     <table class="table table-hover">
             <thead>
                 <tr>
-                    <th></th>
+                    <th>Voornaam</th>
                     <th></th>
                     <th></th>
                     <th></th>
@@ -23,7 +23,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td scope="row"></td>
+                    <td scope="row">Dylan</td>
                     <td></td>
                     <td></td>
                     <td></td>
