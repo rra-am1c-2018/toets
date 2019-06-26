@@ -19,6 +19,7 @@
     <tr>
       <th scope="row">320526</th>
       <th>Yassine</th>
+      <th>El</th>
     </tr>
   </tbody>
 </table>
