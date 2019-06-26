@@ -153,6 +153,16 @@
                     <td><a href="../homepages/max_MaxKraan.php">mijn homepage</a></td>
                     <td>7</td>
                 </tr>
+
+                <tr>
+                    <th scope="row">318144</th>
+                    <td>Lois</td>
+                    <td>Xios12</td>
+                    <td><img src="./img/lois.jpg" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/Lois_Xios12.php">mijn homepage</a></td>
+                    <td>zeuven</td>
+                </tr>
+
                 <tr>
 <<<<<<< HEAD
                     <th scope="row">321173</th>
