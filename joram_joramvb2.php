@@ -6,17 +6,17 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-        <title>Toets - Nick - AM1C</title>
+        <title>toets - joram - AM1C</title>
     </head>
     <body>
       <div class="container-fluid">
-        <h1>Toets - Nick - AM1C</h1>
+        <h1>toets - joram - AM1C</h1>
         <table class="table table-hover">
             <thead>
                 <tr>
-                    <th scope="col">llnr</th>
-                    <th scope="col">voornaam</th>
-                    <th scope="col">tussenvoegsel</th>
+                    <th scope="col"></th>
+                    <th scope="col"></th>
+                    <th scope="col"></th>
                     <th scope="col"></th>
                     <th scope="col"></th>
                     <th scope="col"></th>
@@ -24,8 +24,8 @@
             </thead>
             <tbody>
                 <tr>
-                    <th scope="row">323806</th>
-                    <td>Nick</td>
+                    <th scope="row"></th>
+                    <td></td>
                     <td></td>
                     <td></td>
                     <td></td>
