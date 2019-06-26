@@ -29,7 +29,7 @@
       <td>Boele</td>
       <td></td>
       <td>Coolen</td>
-      <td><img src="./img/200px-Pipo_de_Clown.png" alt="pipo de clown"></td>
+      <td><img src="../img/200px-Pipo_de_Clown.png" width="30px" height="40px" alt="pipo de clown"></td>
       <td>Applicatie en media ontwikkelaar</td>
       </tr>
   </tbody>
