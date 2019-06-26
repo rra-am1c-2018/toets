@@ -16,7 +16,7 @@
   </head>
   <body>
   <div class="container-fluid">
-  
+
   <h1>Hello, world!</h1>
 
 <table class="table">
@@ -32,11 +32,11 @@
 </thead>
 <tbody>
 <tr>
-  <th scope="row"></th>
+  <th scope="row">322719</th>
+  <td>Max</td>
   <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td>Kraan</td>
+  <td>GameDevelopment</td>
   <td></td>
 </tr>
 </tbody>
