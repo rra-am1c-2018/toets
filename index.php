@@ -45,7 +45,7 @@
                     <td>Emma</td>
                     <td>emmaX2</td>
                     <td><img src="./img/kaas.jpeg" width="40px" height="40px" /></td>
-                    <td><a href="./homepages/dennis_oneandonlydennis.php">mijn homepage</a></td>
+                    <td><a href="./homepages/emma_emmaX2.php">mijn homepage</a></td>
                     <td>11</td>
                 </tr>
 
