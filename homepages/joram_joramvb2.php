@@ -6,34 +6,35 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <title>toets - joram - AM1C</title>
     </head>
     <body>
       <div class="container-fluid">
+        <h1>toets - joram - AM1C</h1>
         <table class="table table-hover">
             <thead>
                 <tr>
                     <th scope="col">llnr</th>
-                    <th scope="col">Voornaam</th>
-                    <th scope="col">Tussenvoegsel</th>
-                    <th scope="col">Achternaam</th>
-                    <th scope="col">Afstudeerrichting</th>
-                    <th scope="col">Avatar</th>
-                    <th scope="col">Hobby</th>
+                    <th scope="col">voornaam</th>
+                    <th scope="col">tussenvoegsel</th>
+                    <th scope="col">achternaam</th>
+                    <th scope="col">afstudeerrichting</th>
+                    <th scope="col">avatar</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
-                    <th scope="row">321231</th>
-                    <td>Kimberly</td>
-                    <td></td>
-                    <td>Kroon</td>
-                    <td>Game</td>
-                    <td><img src="../img/icon.jpg" width="40px" height="40px" /></td>
-                    <td>Tekenen, game, niets doen, slapen en niets doen</td>
+                    <th scope="row">321736</th>
+                    <td>Joram</td>
+                    <td>van</td>
+                    <td>Buuren</td>
+                    <td>Applicatie- en mediaontwikkelaar</td>
+                    <td><img src="klimmer.jpg" alt=""></td>
                 </tr>
             </tbody>
         </table>
       </div>
+      <a href="./homepagesarjan_rra-am1c-2018.php/" class="btn btn-primary">naar de homepage</a>
       <!-- Optional JavaScript -->
       <!-- jQuery first, then Popper.js, then Bootstrap JS -->
       <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
