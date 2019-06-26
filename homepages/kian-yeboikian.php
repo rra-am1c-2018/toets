@@ -19,12 +19,12 @@
           </thead>
           <tbody>
               <tr>
-                  <td scope="row">Kian</td>
+                  <td scope="row">321173</td>
+                  <td>Kian</td>
                   <td></td>
                   <td>Ceelie</td>
-                  <td></td>
-                  <td></td>
-                  <td></td>
+                  <td>Game</td>
+                  <td><td><img src="../img/yarr image.png" style="width: 50px; height: 50px;"></td></td>
               </tr>
   </tbody>
 </table>

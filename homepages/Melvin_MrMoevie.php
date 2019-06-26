@@ -8,37 +8,35 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
+    <button onclick="location.href = '/';" id="myButton" class="float-left submit-button" >Home</button>
     <title>Hello, world!</title>
   </head>
   <body>
-    <h1>Hello, world!</h1>
-
     <div class="container-fluid">
-    <table class="table">
+  <table class="table">
   <thead>
     <tr>
       <th scope="col">llnr</th>
-      <th scope="col">Voornaam</th>
-      <th scope="col">Tussenvoegsel</th>
-      <th scope="col">Achternaam</th>
-      <th scope="col">Afstudeerrichting</th>
-      <th scope="col">Avatar</th>
+      <th scope="col">voornaam</th>
+      <th scope="col">tussenvoegsel</th>
+      <th scope="col">achternaam</th>
+      <th scope="col">afstudeerrichting</th>
+      <th scope="col">avatar</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>322494</td>
-      <td>Jens</td>
-      <td>-</td>
-      <td>Reimer</td>
-      <td>Game development</td>
-      <td><img src="./img/SPQR.png" style="width: 100px; height: 100px;"></td>
+      <th scope="row">1</th>
+      <td>324640</td>
+      <td>Melvin</td>
+      <td></td>
+      <td>Gleis</td>
+      <td>Game</td>
+      <td><img src="/img/KonoDioDa.jpg" width="40px" height="40px" /></td>
     </tr>
   </tbody>
 </table>
-    </div>
-
-    
+  </div>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
