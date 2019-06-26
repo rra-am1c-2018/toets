@@ -25,13 +25,13 @@
             </thead>
             <tbody>
                 <tr>
-                    <th scope="row"></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td><a href=""></a></td>
+                    <th scope="row">324102</th>
+                    <td>Rijn</td>
+                    <td>YEETMASTER</td>
+                    <td>Hoeben</td>
+                    <td>web</td>
+                    <td><img src="../img/oof.PNG" width="40px" height="40px" /></td>
+                    <td><a href="../index.php">Terug naar Index</a></td>
                 </tr>
             </tbody>
         </table>
