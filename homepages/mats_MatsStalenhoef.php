@@ -35,6 +35,7 @@
   </tbody>
 </table>
 
+    <a class="btn btn-primary" href="../index.php" role="button">Homepage</a>
     </div>
 
     <!-- Optional JavaScript -->
