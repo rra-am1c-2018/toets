@@ -18,6 +18,7 @@
         <th scope="col">Llnr</th>
         <th scope="col">Voornaam</th>
         <th scope="col">tussenvoegsel</th>
+        <th scope="col">Achternaam</th>
         </tr>
     </thead>
     <tbody>
@@ -25,6 +26,7 @@
         <td>322401</td>
         <td>Jesse</td>
         <td></td>
+        <td>Tonckens</td>
         </tr>
     </tbody>
     </table>
