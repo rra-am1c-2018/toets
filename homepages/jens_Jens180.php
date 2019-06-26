@@ -21,7 +21,7 @@
       <th scope="col">Voornaam</th>
       <th scope="col">Tussenvoegsel</th>
       <th scope="col">Achternaam</th>
-      <th scope="col">Handle</th>
+      <th scope="col">Afstudeerrichting</th>
       <th scope="col">Handle</th>
     </tr>
   </thead>
@@ -31,7 +31,7 @@
       <td>Jens</td>
       <td>-</td>
       <td>Reimer</td>
-      <td>@mdo</td>
+      <td>Game development</td>
       <td>@mdo</td>
     </tr>
   </tbody>
