@@ -30,7 +30,7 @@
                 <td> </td>
                 <td>Smit</td>
                 <td>web</td>
-                <td>d</td>
+                <td><img src="../img/tijn.png" alt="avatar" style="height: 30px;"></td>
                 </tr>
             </tbody>
         </table>
