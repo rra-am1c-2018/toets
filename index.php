@@ -39,6 +39,14 @@
                     <td><a href="./homepages/dennis_oneandonlydennis.php">mijn homepage</a></td>
                     <td>10 (duh)</td>
                 <tr>
+                    <th scope="row">320711</th>
+                    <td>Emma</td>
+                    <td>van</td>
+                    <td>Breugel</td>
+                    <td>Applicatie- en mediaontwikkelaar</td>
+                    <td><img src="./img/kaas.jpeg" width="40px" height="40px" /></td>
+                </tr>
+                <tr>
                     <th scope="row">323806</th>
                     <td>Nick</td>
                     <td>DankassGamer69</td>
