@@ -118,7 +118,7 @@
                     <td>MaxKraan</td>
                     <td><img src="./img/max.jpg" width="40px" height="40px" /></td>
                     <td><a href="../homepages/max_MaxKraan.php">mijn homepage</a></td>
-                    <td>420 lmao</td>
+                    <td>7</td>
                 </tr>
 
             </tbody>
