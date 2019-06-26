@@ -28,7 +28,7 @@
                 <td>Dennis</td>
                 <td></td>
                 <td>Luijkenaar</td>
-                <td></td>
+                <td>Web development</td>
                 <td></td>
             </tr>
         </tbody>
