@@ -20,7 +20,6 @@
                     <th scope="col">Achternaam</th>
                     <th scope="col">Afstudeerrichting</th>
                     <th scope="col">Avatar (40x40)</th>
-                    <th scope="col">Cijfer voor pagina</th>
                 </tr>
             </thead>
             <tbody>
