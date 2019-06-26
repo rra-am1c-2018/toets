@@ -8,6 +8,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
+    <button onclick="location.href = '/';" id="myButton" class="float-left submit-button" >Home</button>
     <title>Hello, world!</title>
   </head>
   <body>
@@ -31,7 +32,7 @@
       <td></td>
       <td>Gleis</td>
       <td>Game</td>
-      <td><img src="./img/KonoDioDa.jpg" width="40px" height="40px" /></td>
+      <td><img src="/img/KonoDioDa.jpg" width="40px" height="40px" /></td>
     </tr>
   </tbody>
 </table>
