@@ -32,12 +32,22 @@
                     <td>10+</td>
                 </tr>
                 <tr>
+                <th scope="row">320625</th>
+                    <td>Tijn</td>
+                    <td>tijn27</td>
+                    <td><img src="../img/tijn.png" alt="avatar" style="height: 30px;"></td>
+                    <td><a href="./homepages/tijn_tijn27.php">mijn homepage</a></td>
+                    <td>9</td>
+                </tr>
+                <tr>
                     <th scope="row">324337</th>
                     <td>Dennis</td>
                     <td>oneandonlydennis</td>
                     <td><img src="./img/etika.png" width="40px" height="40px" /></td>
                     <td><a href="./homepages/dennis_oneandonlydennis.php">mijn homepage</a></td>
                     <td>10 (duh)</td>
+                </tr>
+
                 <tr>
                     <th scope="row">320711</th>
                     <td>Emma</td>
@@ -46,6 +56,7 @@
                     <td><a href="./homepages/emma_emmaX2.php">mijn homepage</a></td>
                     <td>11</td>
                 </tr>
+
                 <tr>
                     <th scope="row">323806</th>
                     <td>Nick</td>
@@ -54,7 +65,6 @@
                     <td><a href="./homepages/Nick_DankassGamer69.php">mijn homepage</a></td>
                     <td>69 lmao</td>
                 </tr>
-<<<<<<< HEAD
 
                 <tr>
                     <th scope="row">322632</th>
@@ -72,6 +82,7 @@
                     <td><img src="./img/daredevil28.png" width="40px" height="40px" /></td>
                     <td><a href="./homepages/SeanKelly_daredevil28">mijn homepage</a></td>
                     <td>at least a 7</td>
+
                 </tr>
                 
                 <tr>
@@ -81,7 +92,6 @@
                     <td><img src="./img/Jesse_JSaurusRex.png" width="40px" height="40px" /></td>
                     <td><a href="./homepages/jesse_JSaurusRex.php">mijn homepage</a></td>
                     <td>8+-+</td>
->>>>>>> fa3fc98a498e077f32133e1a990d057a1cc95b2b
                 </tr>
 
                 <tr>
@@ -89,7 +99,7 @@
                     <td>Mats</td>
                     <td>MatsStalenhoef</td>
                     <td><img src="./img/mats.png" width="40px" height="40px" /></td>
-                    <td><a href="./homepages/mats_Stalenhoef.php">mijn homepage</a></td>
+                    <td><a href="./homepages/mats_MatsStalenhoef.php">mijn homepage</a></td>
                     <td>Weet ik veel</td>
                 </tr>
                 <tr>
@@ -100,6 +110,24 @@
                     <td><a href="./homepages/kimberly_kimberlyowo.php">mijn homepage</a></td>
                     <td>7 ofzo</td>
                     </tr>
+		
+		<tr>
+                    <th scope="row">320526</th>
+                    <td>Yassine</td>
+                    <td>El Fahmi</td>
+                    <td><img src="./img/yassine.png" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/yassine_yassinefahmi.php">mijn homepage</a></td>
+                    <td>10? O wacht..</td>
+                </tr>
+
+                <tr>
+                    <th scope="row">322719</th>
+                    <td>Max</td>
+                    <td>MaxKraan</td>
+                    <td><img src="./img/max.jpg" width="40px" height="40px" /></td>
+                    <td><a href="../homepages/max_MaxKraan.php">mijn homepage</a></td>
+                    <td>420 lmao</td>
+                </tr>
 
             </tbody>
         </table>

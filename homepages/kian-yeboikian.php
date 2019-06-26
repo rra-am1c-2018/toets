@@ -23,9 +23,12 @@
                   <td>Kian</td>
                   <td></td>
                   <td>Ceelie</td>
-                  <td></td>
-                  <td></td>
+                  <td>Game</td>
+                  <td><td><img src="../img/yarr image.png" style="width: 50px; height: 50px;"></td></td>
               </tr>
+
+              <a href="/index.php" ><button>index</button></a>
+
   </tbody>
 </table>
 
