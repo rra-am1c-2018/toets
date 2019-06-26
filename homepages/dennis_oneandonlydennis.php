@@ -17,6 +17,9 @@
                 <th></th>
                 <th></th>
                 <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
             </tr>
         </thead>
         <tbody>
@@ -24,9 +27,7 @@
                 <td scope="row"></td>
                 <td></td>
                 <td></td>
-            </tr>
-            <tr>
-                <td scope="row"></td>
+                <td></td>
                 <td></td>
                 <td></td>
             </tr>
