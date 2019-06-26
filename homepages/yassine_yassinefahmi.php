@@ -21,6 +21,7 @@
       <th>Yassine</th>
       <th>El</th>
       <th>Fahmi</th>
+      <th>Webdeveloper</th>
     </tr>
   </tbody>
 </table>
