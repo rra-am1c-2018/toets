@@ -28,7 +28,7 @@
       <th scope="row">322522</th>
       <td>Mats</td>
       <td></td>
-      <td>Stalenhoef/td>
+      <td>Stalenhoef</td>
     </tr>
   </tbody>
 </table>
