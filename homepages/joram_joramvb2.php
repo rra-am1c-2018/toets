@@ -19,7 +19,7 @@
                     <th scope="col">tussenvoegsel</th>
                     <th scope="col">achternaam</th>
                     <th scope="col">afstudeerrichting</th>
-                    <th scope="col"></th>
+                    <th scope="col">avatar</th>
                 </tr>
             </thead>
             <tbody>
@@ -29,7 +29,7 @@
                     <td>van</td>
                     <td>Buuren</td>
                     <td>Applicatie- en mediaontwikkelaar</td>
-                    <td></td>
+                    <td><img src="klimmer.jpg" alt=""></td>
                 </tr>
             </tbody>
         </table>
