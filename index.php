@@ -92,6 +92,14 @@
                     <td><a href="./homepages/mats_Stalenhoef.php">mijn homepage</a></td>
                     <td>Weet ik veel</td>
                 </tr>
+                <tr>
+                <th scope="row">321231</th>
+                    <td>Kimberly</td>
+                    <td>KimberlyOwO</td>
+                    <td><img src="../img/icon.jpg" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/kimberly_kimberlyowo.php">mijn homepage</a></td>
+                    <td>7 ofzo</td>
+                    </tr>
 
             </tbody>
         </table>
