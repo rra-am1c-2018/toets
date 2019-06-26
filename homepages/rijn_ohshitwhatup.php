@@ -29,9 +29,9 @@
                     <td>Rijn</td>
                     <td></td>
                     <td>Hoeben</td>
-                    <td>web</td>
+                    <td>web ofzo</td>
                     <td><img src="../img/oof.PNG" width="40px" height="40px" /></td>
-                    <td><a href="../index.php">Terug naar Index</a></td>
+                    <td><a href="../index.php">Terug naar Index yeet</a></td>
                 </tr>
             </tbody>
         </table>
