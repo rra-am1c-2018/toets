@@ -64,6 +64,15 @@
                     <td>8+-+</td>
                 </tr>
 
+                <tr>
+                    <th scope="row">322522</th>
+                    <td>Mats</td>
+                    <td>MatsStalenhoef</td>
+                    <td><img src="./img/mats.png" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/mats_Stalenhoef.php">mijn homepage</a></td>
+                    <td>8+-+</td>
+                </tr>
+
             </tbody>
         </table>
       </div>
