@@ -20,7 +20,6 @@
                     <th scope="col">Achternaam</th>
                     <th scope="col">Afstudeerrichting</th>
                     <th scope="col">Avatar (40x40)</th>
-                    <th scope="col">Cijfer voor pagina</th>
                 </tr>
             </thead>
             <tbody>
@@ -30,7 +29,7 @@
                     <td>GEEN</td>
                     <td>Kiworkian</td>
                     <td>WEB</td>
-                    <td><img src="./img/natuur.jpg" width="40px" height="40px" /></td>
+                    <td><img src="../img/natuur.jpg" width="40px" height="40px" /></td>
                 </tr>
             </tbody>
         </table>
