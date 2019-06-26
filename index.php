@@ -92,6 +92,15 @@
                     <td><a href="./homepages/sven_svenbroekhof.php">mijn homepage</a></td>
                     <td>10</td>
                 </tr>
+
+                <tr>
+                    <th scope="row">324228</th>
+                    <td>Kiwork</td>
+                    <td>Kiworkian</td>
+                    <td><img src="./img/natuur.png" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/kiwork_kiwo1995.php">mijn homepage</a></td>
+                    <td>10</td>
+                </tr>
                 
                 <tr>
                     <th scope="row">314181</th>
@@ -165,12 +174,22 @@
                     <td><a href="../homepages/max_MaxKraan.php">mijn homepage</a></td>
                     <td>7</td>
                 </tr>
+
+                <tr>
+                    <th scope="row">318144</th>
+                    <td>Lois</td>
+                    <td>Xios12</td>
+                    <td><img src="./img/lois.jpg" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/Lois_Xios12.php">mijn homepage</a></td>
+                    <td>zeuven</td>
+                </tr>
+
                 <tr>
 <<<<<<< HEAD
                     <th scope="row">321173</th>
                     <td>Kian</td>
                     <td>Ceelie</td>
-                    <td><img src="./img/yarrr.jpg" width="40px" height="40px" /></td>
+                    <td><img src="./img/yarrr.PNG" width="40px" height="40px" /></td>
                     <td><a href="./homepages/kian-yeboikian.php">homepage knop lol</a></td>
                     <td>2.6</td>
                 </tr>

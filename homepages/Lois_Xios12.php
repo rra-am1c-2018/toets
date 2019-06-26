@@ -29,7 +29,7 @@
                     <td>lois</td>
                     <td>Xios12</td>
                     <td>web</td>
-                    <td><img src="./img/icon.jpg" width="40px" height="40px" /></td>
+                    <td><img src="./img/lois.jpg" width="40px" height="40px" /></td>
                     <td>10+</td>
                 </tr>
             </tbody>
