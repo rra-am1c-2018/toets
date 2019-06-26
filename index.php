@@ -159,7 +159,7 @@
                     <td>Kian</td>
                     <td>Ceelie</td>
                     <td><img src="./img/yarr image.jpg" width="40px" height="40px" /></td>
-                    <td><a href="../homepages/kian_yeboikian.php">mijn homepage</a></td>
+                    <td><a href="./homepages/kian_yeboikian.php">mijn homepage</a></td>
                     <td>2.6</td>
                 </tr>
 
