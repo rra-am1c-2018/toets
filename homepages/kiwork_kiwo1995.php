@@ -29,6 +29,7 @@
                     <td>Kiwork</td>
                     <td>GEEN</td>
                     <td>Kiworkian</td>
+                    <td>WEB</td>
 
                 </tr>
             </tbody>
