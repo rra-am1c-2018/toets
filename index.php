@@ -52,10 +52,10 @@
                 <tr>
                     <th scope="row">320711</th>
                     <td>Emma</td>
-                    <td>van</td>
-                    <td>Breugel</td>
-                    <td>Applicatie- en mediaontwikkelaar</td>
+                    <td>emmaX2</td>
                     <td><img src="./img/kaas.jpeg" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/dennis_oneandonlydennis.php">mijn homepage</a></td>
+                    <td>11</td>
                 </tr>
 >>>>>>> 804d4f0cf10dc92cf081b5832af9c6fb600ce429
                 <tr>
