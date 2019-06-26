@@ -19,10 +19,10 @@
           </thead>
           <tbody>
               <tr>
-                  <td scope="row">Kian</td>
+                  <td scope="row">321173</td>
+                  <td>Kian</td>
                   <td></td>
                   <td>Ceelie</td>
-                  <td></td>
                   <td></td>
                   <td></td>
               </tr>
