@@ -31,7 +31,6 @@
                     <td><a href="./homepages/arjan_rra-am1c-2018.php">mijn homepage</a></td>
                     <td>10+</td>
                 </tr>
-
                 <tr>
                     <th scope="row">324337</th>
                     <td>Dennis</td>
@@ -41,13 +40,14 @@
                     <td>10 (duh)</td>
                 </tr>
 
-
-
-
-
-
-
-
+                <tr>
+                    <th scope="row">320711</th>
+                    <td>Emma</td>
+                    <td>van</td>
+                    <td>Breugel</td>
+                    <td>Applicatie- en mediaontwikkelaar</td>
+                    <td><img src="./img/kaas.jpeg" width="40px" height="40px" /></td>
+                </tr>
 
                 <tr>
                     <th scope="row">323806</th>
@@ -56,6 +56,14 @@
                     <td><img src="./img/Dkirby.PNG" width="40px" height="40px" /></td>
                     <td><a href="./homepages/Nick_DankassGamer69.php">mijn homepage</a></td>
                     <td>69 lmao</td>
+                </tr>
+                <tr>
+                    <th scope="row">314181</th>
+                    <td>Sean Kelly</td>
+                    <td>daredevil28</td>
+                    <td><img src="./img/daredevil28.png" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/SeanKelly_daredevil28">mijn homepage</a></td>
+                    <td>at least a 7</td>
 
                 </tr>
                 

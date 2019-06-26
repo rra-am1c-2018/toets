@@ -30,7 +30,7 @@
                     <td></td>
                     <td>Schmidt</td>
                     <td>Game</td>
-                    <td><img src="./img/Dkirby.PNG" width="40px" height="40px" /></td>
+                    <td><img src="../img/Dkirby.PNG" width="40px" height="40px" /></td>
                     <td><a href="../index.php">Terug naar Index</a></td>
                 </tr>
             </tbody>
