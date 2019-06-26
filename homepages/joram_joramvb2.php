@@ -19,7 +19,7 @@
                     <th scope="col">tussenvoegsel</th>
                     <th scope="col">achternaam</th>
                     <th scope="col">afstudeerrichting</th>
-                    <th scope="col"></th>
+                    <th scope="col">avatar</th>
                 </tr>
             </thead>
             <tbody>
@@ -29,11 +29,12 @@
                     <td>van</td>
                     <td>Buuren</td>
                     <td>Applicatie- en mediaontwikkelaar</td>
-                    <td></td>
+                    <td><img src="klimmer.jpg" alt=""></td>
                 </tr>
             </tbody>
         </table>
       </div>
+      <a href="./homepagesarjan_rra-am1c-2018.php/" class="btn btn-primary">naar de homepage</a>
       <!-- Optional JavaScript -->
       <!-- jQuery first, then Popper.js, then Bootstrap JS -->
       <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

@@ -19,7 +19,7 @@
                     <th scope="col">Tussenvoegsel</th>
                     <th scope="col">Achternaam</th>
                     <th scope="col">afstuderrichting</th>
-                    <th scope="col"></th>
+                    <th scope="col">Avatar</th>
                 </tr>
             </thead>
             <tbody>
@@ -29,7 +29,7 @@
                     <td>van</td>
                     <td>Breugel</td>
                     <td>Applicatie- en mediaontwikkelaar</td>
-                    <td><img src="" /></td>
+                    <td><img src="./img/kaas.jpeg" width="40px" height="40px" /></td>
                     <!-- <td><a href=""></a></td> -->
                     <td></td>
                 </tr>
