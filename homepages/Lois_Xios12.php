@@ -28,9 +28,10 @@
                     <th scope="row">318144</th>
                     <td>lois</td>
                     <td>Xios12</td>
-                    <td>web</td>
+                    <td>Web Devolpment</td>
                     <td><img src="../img/lois.jpg" width="40px" height="40px" /></td>
-                    <td>8,687</td>
+                    <td>8,68
+                    </td>
                 </tr>
             </tbody>
         </table>
