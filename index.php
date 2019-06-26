@@ -89,7 +89,7 @@
                     <td>Mats</td>
                     <td>MatsStalenhoef</td>
                     <td><img src="./img/mats.png" width="40px" height="40px" /></td>
-                    <td><a href="./homepages/mats_Stalenhoef.php">mijn homepage</a></td>
+                    <td><a href="./homepages/mats_MatsStalenhoef.php">mijn homepage</a></td>
                     <td>Weet ik veel</td>
                 </tr>
 
