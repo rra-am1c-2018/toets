@@ -29,12 +29,13 @@
       <td>Boele</td>
       <td></td>
       <td>Coolen</td>
-      <td>Coolen</td>
-      <td><button type="button" class="btn btn-outline-info">link</button></td>
-      <td>Coolen</td>
+      <td><img src="./img/200px-Pipo_de_Clown.png" alt="pipo de clown"></td>
+      <td>Appliecatie en media ontwikkelaar</td>
       </tr>
   </tbody>
 </table>
+
+<button type="button" class="btn btn-outline-info">link</button>
 
 </div>
 
