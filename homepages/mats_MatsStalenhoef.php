@@ -27,8 +27,8 @@
     <tr>
       <th scope="row">322522</th>
       <td>Mats</td>
-      <td>Otto</td>
-      <td>@mdo</td>
+      <td></td>
+      <td>Stalenhoef/td>
     </tr>
   </tbody>
 </table>
