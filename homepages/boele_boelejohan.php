@@ -11,35 +11,31 @@
     <title>Hello, world!</title>
   </head>
   <body>
-    <h1>Hello, world!</h1>
-
-    <div class="container-fluid">
-    <table class="table">
-  <thead>
+  <div class="container-fluid">
+<table class="table">
+  <thead class="thead-dark">
     <tr>
-      <th scope="col">llnr</th>
-      <th scope="col">Voornaam</th>
-      <th scope="col">Tussenvoegsel</th>
-      <th scope="col">Achternaam</th>
-      <th scope="col">Afstudeerrichting</th>
-      <th scope="col">Avatar</th>
+                    <th scope="col">llnr</th>
+                    <th scope="col">Voornaam</th>
+                    <th scope="col">Tussenvoegsel</th>
+                    <th scope="col">Achternaam</th>
+                    <th scope="col">Avatar (40x40)</th>
+                    <th scope="col">Afstudeerrichting</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>322494</td>
-      <td>Jens</td>
-      <td>-</td>
-      <td>Reimer</td>
-      <td>Game development</td>
-      <td><img src="../img/SPQR.png" style="width: 100px; height: 100px;"></td>
-    </tr>
+      <th scope="row">320664</th>
+      <td>Boele</td>
+      <td></td>
+      <td>Coolen</td>
+      <td><img src="../img/200px-Pipo_de_Clown.png" width="30px" height="40px" alt="pipo de clown"></td>
+      <td>Applicatie en media ontwikkelaar</td>
+      </tr>
   </tbody>
 </table>
-      <a class="btn btn-primary" href="../index.php" role="button">Homepage</a>
-    </div>
-
-    
+<a class="btn btn-outline-info" href="../index.php" type="button">link</a>
+</div>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
