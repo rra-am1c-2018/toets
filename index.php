@@ -54,6 +54,17 @@
                     <td><a href="./homepages/Nick_DankassGamer69.php">mijn homepage</a></td>
                     <td>69 lmao</td>
                 </tr>
+<<<<<<< HEAD
+
+                <tr>
+                    <th scope="row">322632</th>
+                    <td>Sven</td>
+                    <td>svenbroekhof</td>
+                    <td><img src="./img/sven.png" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/sven_svenbroekhof.php">mijn homepage</a></td>
+                    <td>10</td>
+                </tr>
+                
                 <tr>
                     <th scope="row">314181</th>
                     <td>Sean Kelly</td>
@@ -70,6 +81,7 @@
                     <td><img src="./img/Jesse_JSaurusRex.png" width="40px" height="40px" /></td>
                     <td><a href="./homepages/jesse_JSaurusRex.php">mijn homepage</a></td>
                     <td>8+-+</td>
+>>>>>>> fa3fc98a498e077f32133e1a990d057a1cc95b2b
                 </tr>
 
             </tbody>
