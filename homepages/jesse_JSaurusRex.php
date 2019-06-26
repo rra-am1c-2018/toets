@@ -8,7 +8,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
-    <title>Hello, world!</title>
+    <title>JSaurusRex homepage</title>
   </head>
   <body>
     <h1>Jesse Tonckens, JSaurusRex</h1>
@@ -34,6 +34,8 @@
         </tr>
     </tbody>
     </table>
+
+    <a class="btn btn-primary" href="../index.php" role="button">Terug naar index.php</a>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
