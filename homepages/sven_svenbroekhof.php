@@ -15,12 +15,14 @@
             <thead>
                 <tr>
                     <th scope="col">llnr</th>
+                    <th scope="col">Voornaam</th>
                     
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <th scope="row">322632</th>
+                    <td>Sven</td>
 
                 </tr>
             </tbody>
