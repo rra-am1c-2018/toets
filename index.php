@@ -94,7 +94,14 @@
                     <td><a href="./homepages/mats_MatsStalenhoef.php">mijn homepage</a></td>
                     <td>Weet ik veel</td>
                 </tr>
-
+                  <tr>
+                    <th scope="row">322401</th>
+                    <td>Melvin</td>
+                    <td>MrMoevie</td>
+                    <td><img src="./img/KonoDioDa.jpg" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/Melvin_MrMoevie.php">mijn homepage</a></td>
+                    <td>IDk 7+ atleast 7+</td>
+                </tr>
             </tbody>
         </table>
       </div>
