@@ -20,6 +20,7 @@
         <th scope="col">tussenvoegsel</th>
         <th scope="col">Achternaam</th>
         <th scope="col">afstudeerrichting</th>
+        <th scope="col">avatar</th>
         </tr>
     </thead>
     <tbody>
@@ -29,6 +30,7 @@
         <td></td>
         <td>Tonckens</td>
         <td>Game</td>
+        <td><img src="../img/Jesse_JSaurusRex.png" width="100" height="100"></td>
         </tr>
     </tbody>
     </table>
