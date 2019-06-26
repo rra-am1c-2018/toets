@@ -15,8 +15,8 @@
             <thead>
                 <tr>
                     <th scope="col">llnr</th>
-                    <th scope="col"></th>
-                    <th scope="col"></th>
+                    <th scope="col">voornaam</th>
+                    <th scope="col">tussenvoegsel</th>
                     <th scope="col"></th>
                     <th scope="col"></th>
                     <th scope="col"></th>
@@ -25,8 +25,8 @@
             <tbody>
                 <tr>
                     <th scope="row">321736</th>
-                    <td></td>
-                    <td></td>
+                    <td>Joram</td>
+                    <td>van</td>
                     <td></td>
                     <td></td>
                     <td></td>
