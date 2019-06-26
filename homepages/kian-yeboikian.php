@@ -24,7 +24,7 @@
                   <td></td>
                   <td>Ceelie</td>
                   <td>Game</td>
-                  <td></td>
+                  <td><td><img src="../img/yarr image.png" style="width: 50px; height: 50px;"></td></td>
               </tr>
   </tbody>
 </table>
