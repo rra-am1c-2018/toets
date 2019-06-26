@@ -6,9 +6,11 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <title>De beste homepage</title>
     </head>
     <body>
       <div class="container-fluid">
+        <h1>Toets - AM1C</h1>
         <table class="table table-hover">
             <thead>
                 <tr>
@@ -17,19 +19,19 @@
                     <th scope="col">Tussenvoegsel</th>
                     <th scope="col">Achternaam</th>
                     <th scope="col">Afstudeerrichting</th>
-                    <th scope="col">Avatar</th>
-                    <th scope="col">Hobby</th>
+                    <th scope="col">Avatar (40x40)</th>
+                    
                 </tr>
             </thead>
             <tbody>
                 <tr>
-                    <th scope="row">321231</th>
-                    <td>Kimberly</td>
+                    <th scope="row">322632</th>
+                    <td>Sven</td>
                     <td></td>
-                    <td>Kroon</td>
-                    <td>Game</td>
-                    <td><img src="../img/icon.jpg" width="40px" height="40px" /></td>
-                    <td>Tekenen, game, niets doen</td>
+                    <td>Broekhof</td>
+                    <td>Web-development</td>
+                    <td><img src="../img/sven.png" width="40px" height="40px" /></td>
+
                 </tr>
             </tbody>
         </table>

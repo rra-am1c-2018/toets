@@ -16,20 +16,20 @@
                 <tr>
                     <th scope="col">llnr</th>
                     <th scope="col">voornaam</th>
-                    <th scope="col"></th>
-                    <th scope="col"></th>
-                    <th scope="col"></th>
-                    <th scope="col"></th>
+                    <th scope="col">tussenvoegsel</th>
+                    <th scope="col">achternaam</th>
+                    <th scope="col">afstudeerrichting</th>
+                    <th scope="col">avatar</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <th scope="row">321736</th>
                     <td>Joram</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <td>van</td>
+                    <td>Buuren</td>
+                    <td>Applicatie- en mediaontwikkelaar</td>
+                    <td><img src="klimmer.jpg" alt=""></td>
                 </tr>
             </tbody>
         </table>

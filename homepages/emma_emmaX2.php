@@ -15,20 +15,22 @@
             <thead>
                 <tr>
                     <th scope="col">llnr</th>
-                    <th scope="col"></th>
-                    <th scope="col"></th>
-                    <th scope="col"></th>
-                    <th scope="col"></th>
+                    <th scope="col">voornaam</th>
+                    <th scope="col">Tussenvoegsel</th>
+                    <th scope="col">Achternaam</th>
+                    <th scope="col">afstuderrichting</th>
                     <th scope="col"></th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
-                    <th scope="row"></th>
-                    <td></td>
-                    <td></td>
+                    <th scope="row">320711</th>
+                    <td>Emma</td>
+                    <td>van</td>
+                    <td>Breugel</td>
+                    <td>Applicatie- en mediaontwikkelaar</td>
                     <td><img src="" /></td>
-                    <td><a href=""></a></td>
+                    <!-- <td><a href=""></a></td> -->
                     <td></td>
                 </tr>
             </tbody>

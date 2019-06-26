@@ -14,25 +14,26 @@
     <table class="table">
         <thead>
             <tr>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
+                <th>Leerlingsnummer</th>
+                <th>Voornaam</th>
+                <th>Tussenvoegsel</th>
+                <th>Achternaam</th>
+                <th>Afstudeerrichting</th>
+                <th>Avatar</th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td scope="row"></td>
+                <td scope="row">332347</td>
+                <td>Dennis</td>
                 <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>Luijkenaar</td>
+                <td>Web development</td>
+                <td><img src="../img/etika.png" height="200px" width="300px" alt="Etika, RIP in pieces"></td>
             </tr>
         </tbody>
     </table>
+    <a name="button1" id="button1" class="btn btn-primary" href="../index.php" role="button">Terug naar home</a>
     </div>
 
 

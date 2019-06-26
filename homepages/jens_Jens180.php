@@ -17,19 +17,21 @@
     <table class="table">
   <thead>
     <tr>
-      <th scope="col">#</th>
-      <th scope="col">First</th>
-      <th scope="col">Last</th>
-      <th scope="col">Handle</th>
-      <th scope="col">Handle</th>
+      <th scope="col">llnr</th>
+      <th scope="col">Voornaam</th>
+      <th scope="col">Tussenvoegsel</th>
+      <th scope="col">Achternaam</th>
+      <th scope="col">Afstudeerrichting</th>
       <th scope="col">Handle</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row">1</th>
-      <td>Mark</td>
-      <td>Otto</td>
+      <td>322494</td>
+      <td>Jens</td>
+      <td>-</td>
+      <td>Reimer</td>
+      <td>Game development</td>
       <td>@mdo</td>
     </tr>
   </tbody>
