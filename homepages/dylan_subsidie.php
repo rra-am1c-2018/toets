@@ -29,10 +29,13 @@
                     <td>Van</td>
                     <td>Van Schaik</td>
                     <td>Twijfel</td>
-                    <td><img src="./img/dylanava.png" style="width: 100px; height: 100px;"></td>
+                    <td><img src="../img/dylan.png" style="width: 70px; height: 70px;"></td>
                 </tr>
             </tbody>
         </table>
+
+        <a name="indexbutton" id="indexbutton" class="btn btn-primary" href="../index.php" role="button">Terug naar index</a>
+
    </div>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
