@@ -31,7 +31,6 @@
                     <td><a href="./homepages/arjan_rra-am1c-2018.php">mijn homepage</a></td>
                     <td>10+</td>
                 </tr>
-<<<<<<< HEAD
                 <tr>
                     <th scope="row">324337</th>
                     <td>Dennis</td>
@@ -39,16 +38,6 @@
                     <td><img src="./img/etika.png" width="40px" height="40px" /></td>
                     <td><a href="./homepages/dennis_oneandonlydennis.php">mijn homepage</a></td>
                     <td>10 (duh)</td>
-=======
-
-
-
-
-
-
-
-
-
                 <tr>
                     <th scope="row">323806</th>
                     <td>Nick</td>
@@ -56,8 +45,25 @@
                     <td><img src="./img/Dkirby.PNG" width="40px" height="40px" /></td>
                     <td><a href="./homepages/Nick_DankassGamer69.php">mijn homepage</a></td>
                     <td>69 lmao</td>
->>>>>>> 480c72f2c696ec9ad23c623cc27c27e35326ec62
                 </tr>
+                <tr>
+                    <th scope="row">314181</th>
+                    <td>Sean Kelly</td>
+                    <td>daredevil28</td>
+                    <td><img src="./img/daredevil28.png" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/SeanKelly_daredevil28">mijn homepage</a></td>
+                    <td>at least a 7</td>
+                </tr>
+                
+                <tr>
+                    <th scope="row">322401</th>
+                    <td>Jesse</td>
+                    <td>JSaurusRex</td>
+                    <td><img src="./img/Jesse_JSaurusRex.png" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/jesse_JSaurusRex.php">mijn homepage</a></td>
+                    <td>8+-+</td>
+                </tr>
+
             </tbody>
         </table>
       </div>
