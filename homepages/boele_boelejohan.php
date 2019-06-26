@@ -17,10 +17,10 @@
     <tr>
                     <th scope="col">llnr</th>
                     <th scope="col">Voornaam</th>
-                    <th scope="col">Githubnaam</th>
+                    <th scope="col">Tussenvoegsel</th>
+                    <th scope="col">Achternaam</th>
                     <th scope="col">Avatar (40x40)</th>
-                    <th scope="col">link</th>
-                    <th scope="col">Cijfer voor pagina</th>
+                    <th scope="col">Afstuurrichting</th>
     </tr>
   </thead>
   <tbody>
@@ -28,6 +28,9 @@
       <th scope="row">320664</th>
       <td>Boele</td>
       <td></td>
+      <td>Coolen</td>
+      <td>Coolen</td>
+      <td><button type="button" class="btn btn-outline-info">link</button></td>
       <td>Coolen</td>
       </tr>
   </tbody>
