@@ -31,6 +31,70 @@
                     <td><a href="./homepages/arjan_rra-am1c-2018.php">mijn homepage</a></td>
                     <td>10+</td>
                 </tr>
+                <tr>
+                    <th scope="row">324337</th>
+                    <td>Dennis</td>
+                    <td>oneandonlydennis</td>
+                    <td><img src="./img/etika.png" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/dennis_oneandonlydennis.php">mijn homepage</a></td>
+                    <td>10 (duh)</td>
+                </tr>
+
+                <tr>
+                    <th scope="row">320711</th>
+                    <td>Emma</td>
+                    <td>emmaX2</td>
+                    <td><img src="./img/kaas.jpeg" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/emma_emmaX2.php">mijn homepage</a></td>
+                    <td>11</td>
+                </tr>
+
+                <tr>
+                    <th scope="row">323806</th>
+                    <td>Nick</td>
+                    <td>DankassGamer69</td>
+                    <td><img src="./img/Dkirby.PNG" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/Nick_DankassGamer69.php">mijn homepage</a></td>
+                    <td>69 lmao</td>
+                </tr>
+
+                <tr>
+                    <th scope="row">322632</th>
+                    <td>Sven</td>
+                    <td>svenbroekhof</td>
+                    <td><img src="./img/sven.png" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/sven_svenbroekhof.php">mijn homepage</a></td>
+                    <td>10</td>
+                </tr>
+                
+                <tr>
+                    <th scope="row">314181</th>
+                    <td>Sean Kelly</td>
+                    <td>daredevil28</td>
+                    <td><img src="./img/daredevil28.png" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/SeanKelly_daredevil28">mijn homepage</a></td>
+                    <td>at least a 7</td>
+
+                </tr>
+                
+                <tr>
+                    <th scope="row">322401</th>
+                    <td>Jesse</td>
+                    <td>JSaurusRex</td>
+                    <td><img src="./img/Jesse_JSaurusRex.png" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/jesse_JSaurusRex.php">mijn homepage</a></td>
+                    <td>8+-+</td>
+                </tr>
+
+                <tr>
+                    <th scope="row">322522</th>
+                    <td>Mats</td>
+                    <td>MatsStalenhoef</td>
+                    <td><img src="./img/mats.png" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/mats_MatsStalenhoef.php">mijn homepage</a></td>
+                    <td>Weet ik veel</td>
+                </tr>
+
             </tbody>
         </table>
       </div>
