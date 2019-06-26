@@ -15,10 +15,12 @@
         <table class="table">
             <thead>
                 <tr>
-                <th scope="col">#</th>
-                <th scope="col">First</th>
-                <th scope="col">Last</th>
-                <th scope="col">Handle</th>
+                <th scope="col">llnr</th>
+                <th scope="col">voornaam</th>
+                <th scope="col">tussenvoegsel</th>
+                <th scope="col">achternaam</th>
+                <th scope="col">afstudeerrichting</th>
+                <th scope="col">avatar</th>
                 </tr>
             </thead>
             <tbody>
