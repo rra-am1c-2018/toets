@@ -54,6 +54,16 @@
                     <td><a href="./homepages/SeanKelly_daredevil28">mijn homepage</a></td>
                     <td>at least a 7</td>
                 </tr>
+                
+                <tr>
+                    <th scope="row">322401</th>
+                    <td>Jesse</td>
+                    <td>JSaurusRex</td>
+                    <td><img src="./img/Jesse_JSaurusRex.png" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/jesse_JSaurusRex.php">mijn homepage</a></td>
+                    <td>8+-+</td>
+                </tr>
+
             </tbody>
         </table>
       </div>
