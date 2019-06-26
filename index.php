@@ -41,10 +41,10 @@
                 <tr>
                     <th scope="row">320711</th>
                     <td>Emma</td>
-                    <td>van</td>
-                    <td>Breugel</td>
-                    <td>Applicatie- en mediaontwikkelaar</td>
+                    <td>emmaX2</td>
                     <td><img src="./img/kaas.jpeg" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/dennis_oneandonlydennis.php">mijn homepage</a></td>
+                    <td>11</td>
                 </tr>
                 <tr>
                     <th scope="row">323806</th>
@@ -82,6 +82,15 @@
                     <td><a href="./homepages/jesse_JSaurusRex.php">mijn homepage</a></td>
                     <td>8+-+</td>
 >>>>>>> fa3fc98a498e077f32133e1a990d057a1cc95b2b
+                </tr>
+
+                <tr>
+                    <th scope="row">322522</th>
+                    <td>Mats</td>
+                    <td>MatsStalenhoef</td>
+                    <td><img src="./img/mats.png" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/mats_Stalenhoef.php">mijn homepage</a></td>
+                    <td>Weet ik veel</td>
                 </tr>
 
             </tbody>
