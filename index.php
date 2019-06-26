@@ -154,6 +154,16 @@
                     <td>7</td>
                 </tr>
                 <tr>
+<<<<<<< HEAD
+                    <th scope="row">321173</th>
+                    <td>Kian</td>
+                    <td>Ceelie</td>
+                    <td><img src="./img/yarrr.jpg" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/kian-yeboikian.php">homepage knop lol</a></td>
+                    <td>2.6</td>
+                </tr>
+
+=======
                     <th scope="row">317074</th>
                     <td>Dylan</td>
                     <td>Subsidie</td>
@@ -161,6 +171,7 @@
                     <td><a href="./homepages/dylan_subsidie.php">Mijn Homepage</a></td>
                     <td>Number 15</td>
                 </tr>
+>>>>>>> 50eefe2866ab11e485bdac1a9692a099bcb27796
             </tbody>
         </table>
       </div>
