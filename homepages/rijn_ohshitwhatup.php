@@ -27,7 +27,7 @@
                 <tr>
                     <th scope="row">324102</th>
                     <td>Rijn</td>
-                    <td></td>
+                    <td>YEETMASTER</td>
                     <td>Hoeben</td>
                     <td>web</td>
                     <td><img src="../img/oof.PNG" width="40px" height="40px" /></td>
