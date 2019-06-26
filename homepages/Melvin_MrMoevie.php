@@ -31,6 +31,7 @@
       <td></td>
       <td>Gleis</td>
       <td>Game</td>
+      <td><img src="./img/KonoDioDa.jpg" width="40px" height="40px" /></td>
     </tr>
   </tbody>
 </table>
