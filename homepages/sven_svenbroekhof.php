@@ -18,6 +18,7 @@
                     <th scope="col">Voornaam</th>
                     <th scope="col">Tussenvoegsel</th>
                     <th scope="col">Achternaam</th>
+                    <th scope="col">Afstudeerrichting</th>
                     
                 </tr>
             </thead>
@@ -27,6 +28,7 @@
                     <td>Sven</td>
                     <td></td>
                     <td>Broekhof</td>
+                    <td>Web-development</td>
 
                 </tr>
             </tbody>
