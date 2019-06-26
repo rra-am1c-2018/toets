@@ -20,7 +20,7 @@
                     <th scope="col">Tussenvoegsel</th>
                     <th scope="col">Achternaam</th>
                     <th scope="col">Avatar (40x40)</th>
-                    <th scope="col">Afstuurrichting</th>
+                    <th scope="col">Afstudeerrichting</th>
     </tr>
   </thead>
   <tbody>
@@ -34,9 +34,7 @@
       </tr>
   </tbody>
 </table>
-
-<button type="button" class="btn btn-outline-info">link</button>
-
+<a class="btn btn-outline-info" href="../index.php" type="button">link</a>
 </div>
 
     <!-- Optional JavaScript -->
