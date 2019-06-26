@@ -46,8 +46,22 @@
                     <td><img src="./img/etika.png" width="40px" height="40px" /></td>
                     <td><a href="./homepages/dennis_oneandonlydennis.php">mijn homepage</a></td>
                     <td>10 (duh)</td>
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+=======
+=======
                 </tr>
 
+>>>>>>> bc5aec548dd4b20f27ffbdf399b4d54baa4d467b
                 <tr>
                     <th scope="row">320711</th>
                     <td>Emma</td>
@@ -56,7 +70,11 @@
                     <td><a href="./homepages/emma_emmaX2.php">mijn homepage</a></td>
                     <td>11</td>
                 </tr>
+<<<<<<< HEAD
+>>>>>>> 804d4f0cf10dc92cf081b5832af9c6fb600ce429
+=======
 
+>>>>>>> bc5aec548dd4b20f27ffbdf399b4d54baa4d467b
                 <tr>
                     <th scope="row">323806</th>
                     <td>Nick</td>
@@ -126,6 +144,14 @@
                     <td><img src="./img/max.jpg" width="40px" height="40px" /></td>
                     <td><a href="../homepages/max_MaxKraan.php">mijn homepage</a></td>
                     <td>420 lmao</td>
+                </tr>
+                <tr>
+                    <th scope="row">317074</th>
+                    <td>Dylan</td>
+                    <td>Subsidie</td>
+                    <td><img src="./img/dylan.png" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/dylan_subsidie.php">Mijn Homepage</a></td>
+                    <td>Number 15</td>
                 </tr>
             </tbody>
         </table>
