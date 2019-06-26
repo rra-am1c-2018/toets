@@ -29,10 +29,11 @@
                 <td></td>
                 <td>Luijkenaar</td>
                 <td>Web development</td>
-                <td><img src="../img/etika.png" alt="Etika, RIP in pieces"></td>
+                <td><img src="../img/etika.png" height="200px" width="300px" alt="Etika, RIP in pieces"></td>
             </tr>
         </tbody>
     </table>
+    <a name="button1" id="button1" class="btn btn-primary" href="../index.php" role="button">Terug naar home</a>
     </div>
 
 
