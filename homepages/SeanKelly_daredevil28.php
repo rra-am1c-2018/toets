@@ -26,7 +26,7 @@
           <td></td>
           <td>Kelly</td>
           <td>Game</td>
-          <td></td>
+          <td><img src="../img/daredevil28.png" width="40px" height="40px"></td>
         </tr>
       </tbody>
     </table>
