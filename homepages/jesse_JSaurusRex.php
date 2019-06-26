@@ -19,6 +19,7 @@
         <th scope="col">Voornaam</th>
         <th scope="col">tussenvoegsel</th>
         <th scope="col">Achternaam</th>
+        <th scope="col">afstudeerrichting</th>
         </tr>
     </thead>
     <tbody>
@@ -27,6 +28,7 @@
         <td>Jesse</td>
         <td></td>
         <td>Tonckens</td>
+        <td>Game</td>
         </tr>
     </tbody>
     </table>
