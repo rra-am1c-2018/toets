@@ -29,7 +29,7 @@
                 <td></td>
                 <td>Luijkenaar</td>
                 <td>Web development</td>
-                <td></td>
+                <td><img src="../img/etika.png" alt="Etika, RIP in pieces"></td>
             </tr>
         </tbody>
     </table>
