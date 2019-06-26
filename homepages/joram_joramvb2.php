@@ -18,7 +18,7 @@
                     <th scope="col">voornaam</th>
                     <th scope="col">tussenvoegsel</th>
                     <th scope="col">achternaam</th>
-                    <th scope="col"></th>
+                    <th scope="col">afstudeerrichting</th>
                     <th scope="col"></th>
                 </tr>
             </thead>
@@ -28,7 +28,7 @@
                     <td>Joram</td>
                     <td>van</td>
                     <td>Buuren</td>
-                    <td></td>
+                    <td>Applicatie- en mediaontwikkelaar</td>
                     <td></td>
                 </tr>
             </tbody>
