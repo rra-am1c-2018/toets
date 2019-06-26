@@ -30,7 +30,7 @@
                     <td>GEEN</td>
                     <td>Kiworkian</td>
                     <td>WEB</td>
-                    <td><img src="./img/natuur.jpg" width="40px" height="40px" /></td>
+                    <td><img src="../img/natuur.jpg" width="40px" height="40px" /></td>
                 </tr>
             </tbody>
         </table>
