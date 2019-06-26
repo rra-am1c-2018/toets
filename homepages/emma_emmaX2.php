@@ -15,24 +15,26 @@
             <thead>
                 <tr>
                     <th scope="col">llnr</th>
-                    <th scope="col"></th>
-                    <th scope="col"></th>
-                    <th scope="col"></th>
-                    <th scope="col"></th>
-                    <th scope="col"></th>
+                    <th scope="col">voornaam</th>
+                    <th scope="col">Tussenvoegsel</th>
+                    <th scope="col">Achternaam</th>
+                    <th scope="col">afstuderrichting</th>
+                    <th scope="col">Avatar</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
-                    <th scope="row"></th>
-                    <td></td>
-                    <td></td>
-                    <td><img src="" /></td>
-                    <td><a href=""></a></td>
-                    <td></td>
-                </tr>
+                    <th scope="row">320711</th>
+                    <td>Emma</td>
+                    <td>van</td>
+                    <td>Breugel</td>
+                    <td>Applicatie- en mediaontwikkelaar</td>
+                    <td><img src="./img/kaas.jpeg" width="40px" height="40px" /></td>
+                    
+                    </tr>
             </tbody>
         </table>
+        <a name="button1" id="button1" class="btn btn-primary" href="../index.php" role="button">Terug naar home</a>
       </div>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

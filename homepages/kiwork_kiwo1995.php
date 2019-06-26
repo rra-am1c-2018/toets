@@ -6,9 +6,11 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <title>toets - Kiwork - AM1A</title>
     </head>
     <body>
       <div class="container-fluid">
+        <h1>Toets - Kiwork - AM1C</h1>
         <table class="table table-hover">
             <thead>
                 <tr>
@@ -17,21 +19,16 @@
                     <th scope="col">Tussenvoegsel</th>
                     <th scope="col">Achternaam</th>
                     <th scope="col">Afstudeerrichting</th>
-                    <th scope="col">Avatar</th>
-                    <th scope="col">Hobby</th>
-                    <th scope="col">Link</th>
+                    <th scope="col">Avatar (40x40)</th>
+                    <th scope="col">Cijfer voor pagina</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
-                    <th scope="row">321231</th>
-                    <td>Kimberly</td>
-                    <td></td>
-                    <td>Kroon</td>
-                    <td>Game</td>
-                    <td><img src="../img/icon.jpg" width="40px" height="40px" /></td>
-                    <td>Tekenen, game, niets doen, slapen en niets doen</td>
-                    <td><a class="btn btn-primary" href="#" role="button">Link</a></td>
+                    <th scope="row">324228</th>
+                    <td>Kiwork</td>
+                    <td>GEEN</td>
+
                 </tr>
             </tbody>
         </table>

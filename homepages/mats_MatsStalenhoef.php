@@ -1,41 +1,42 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <title>Dennis Luijkenaar</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <title>Hello, world!</title>
   </head>
   <body>
     <div class="container-fluid">
     <table class="table">
-        <thead>
-            <tr>
-                <th>Leerlingsnummer</th>
-                <th>Voornaam</th>
-                <th>Tussenvoegsel</th>
-                <th>Achternaam</th>
-                <th>Afstudeerrichting</th>
-                <th>Avatar</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td scope="row">332347</td>
-                <td>Dennis</td>
-                <td></td>
-                <td>Luijkenaar</td>
-                <td>Web development</td>
-                <td><img src="../img/etika.png" height="200px" width="300px" alt="Etika, RIP in pieces"></td>
-            </tr>
-        </tbody>
-    </table>
-    <a name="button1" id="button1" class="btn btn-primary" href="../index.php" role="button">Terug naar home</a>
-    </div>
+  <thead>
+    <tr>
+      <th scope="col">llnr</th>
+      <th scope="col">voornaam</th>
+      <th scope="col">tussenvoegsel</th>
+      <th scope="col">achternaam</th>
+      <th scope="col">afstudeerrichting</th>
+      <th scope="col">avatar</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">322522</th>
+      <td>Mats</td>
+      <td></td>
+      <td>Stalenhoef</td>
+      <td>Game Developer</td>
+      <td><img src="../img/mats.png" style="width: 40px; height: 40px;"></td> 
+    </tr>
+  </tbody>
+</table>
 
+    <a class="btn btn-primary" href="../index.php" role="button">Homepage</a>
+    </div>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
