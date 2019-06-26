@@ -14,13 +14,11 @@
         <table class="table table-hover">
             <thead>
                 <tr>
-                    <th scope="col">llnr</th>
                     
                 </tr>
             </thead>
             <tbody>
                 <tr>
-                    <th scope="row">322632</th>
 
                 </tr>
             </tbody>
