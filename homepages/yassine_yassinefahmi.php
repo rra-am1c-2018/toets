@@ -18,11 +18,6 @@
   <tbody>
     <tr>
       <th scope="row">320526</th>
-      <td>Yassine</td>
-      <td>El</td>
-      <td>Fahmi</td>
-      <td>Webdeveloper</td>
-      <td><img src="#"></td>
     </tr>
   </tbody>
 </table>
