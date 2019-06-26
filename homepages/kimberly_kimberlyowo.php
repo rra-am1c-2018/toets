@@ -29,7 +29,7 @@
                     <td>Kroon</td>
                     <td>Game</td>
                     <td><img src="../img/icon.jpg" width="40px" height="40px" /></td>
-                    <td>Tekenen, game, niets doen, slapen</td>
+                    <td>Tekenen, game, niets doen, slapen en niets doen</td>
                 </tr>
             </tbody>
         </table>
