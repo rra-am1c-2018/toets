@@ -30,7 +30,7 @@
       <td></td>
       <td>Stalenhoef</td>
       <td>Game Developer</td>
-      <td><img src="./img/mats.png" style="width: 40px; height: 40px;"></td> 
+      <td><img src="../img/mats.png" style="width: 40px; height: 40px;"></td> 
     </tr>
   </tbody>
 </table>
