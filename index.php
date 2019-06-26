@@ -38,6 +38,7 @@
                     <td><img src="./img/etika.png" width="40px" height="40px" /></td>
                     <td><a href="./homepages/dennis_oneandonlydennis.php">mijn homepage</a></td>
                     <td>10 (duh)</td>
+<<<<<<< HEAD
 
 
 
@@ -47,6 +48,16 @@
 
 
 
+=======
+                <tr>
+                    <th scope="row">320711</th>
+                    <td>Emma</td>
+                    <td>van</td>
+                    <td>Breugel</td>
+                    <td>Applicatie- en mediaontwikkelaar</td>
+                    <td><img src="./img/kaas.jpeg" width="40px" height="40px" /></td>
+                </tr>
+>>>>>>> 804d4f0cf10dc92cf081b5832af9c6fb600ce429
                 <tr>
                     <th scope="row">323806</th>
                     <td>Nick</td>
@@ -54,6 +65,32 @@
                     <td><img src="./img/Dkirby.PNG" width="40px" height="40px" /></td>
                     <td><a href="./homepages/Nick_DankassGamer69.php">mijn homepage</a></td>
                     <td>69 lmao</td>
+                </tr>
+                <tr>
+                    <th scope="row">314181</th>
+                    <td>Sean Kelly</td>
+                    <td>daredevil28</td>
+                    <td><img src="./img/daredevil28.png" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/SeanKelly_daredevil28">mijn homepage</a></td>
+                    <td>at least a 7</td>
+                </tr>
+                
+                <tr>
+                    <th scope="row">322401</th>
+                    <td>Jesse</td>
+                    <td>JSaurusRex</td>
+                    <td><img src="./img/Jesse_JSaurusRex.png" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/jesse_JSaurusRex.php">mijn homepage</a></td>
+                    <td>8+-+</td>
+                </tr>
+
+                <tr>
+                    <th scope="row">317074</th>
+                    <td>Dylan</td>
+                    <td>Subsidie</td>
+                    <td><img src="./img/dylan.png" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/Nick_DankassGamer69.php">Mijn Homepage</a></td>
+                    <td>Number 15</td>
                 </tr>
             </tbody>
         </table>
