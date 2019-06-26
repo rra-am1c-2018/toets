@@ -129,6 +129,14 @@
                     <td><a href="./homepages/yassine_yassinefahmi.php">mijn homepage</a></td>
                     <td>10? O wacht..</td>
                 </tr>
+                <tr>
+                    <th scope="row">324337</th>
+                    <td>Rijn</td>
+                    <td>yeetushappinessdeletus</td>
+                    <td><img src="./img/oof.png" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/rijn_ohshitwhatup.php">mijn homepage</a></td>
+                    <td>420 blaze it</td>
+                </tr>
 
                 <tr>
                     <th scope="row">322719</th>
