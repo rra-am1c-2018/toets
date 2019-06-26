@@ -58,6 +58,16 @@
                     <td>69 lmao</td>
 >>>>>>> 480c72f2c696ec9ad23c623cc27c27e35326ec62
                 </tr>
+
+                <tr>
+                    <th scope="row">322632</th>
+                    <td>Sven</td>
+                    <td>svenbroekhof</td>
+                    <td><img src="./img/sven.png" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/sven_svenbroekhof.php">mijn homepage</a></td>
+                    <td>10</td>
+                </tr>
+
             </tbody>
         </table>
       </div>
